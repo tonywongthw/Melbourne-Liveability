@@ -3,8 +3,7 @@
 
 # Demo
 
-<iframe src='//gifs.com/embed/z6Ej47' frameborder='0' scrolling='no' width='440' height='400' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
-
+![alt text](https://j.gifs.com/z6Ej47.gif)
 
 
 # Features
