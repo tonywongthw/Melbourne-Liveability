@@ -1,24 +1,24 @@
 # Melbourne Liveability
  A two tier web application for visualising statistical data on map
 
-# Demo
-
-![alt text](https://j.gifs.com/z6Ej47.gif)
-
-
 # Features
 
 1. Visualising data such as weekly mortgage on heat map
 
-![alt text](https://github.com/tonywongthw/Melbourne-Liveability/blob/main/Screenshots/Overview.jpg)
+![Feature1](https://j.gifs.com/z6Ej47.gif)
 
 2. Showing the name of suburb when hovering mouse over a specific region, such as Brighton
 
-![alt text](https://github.com/tonywongthw/Melbourne-Liveability/blob/main/Screenshots/Feature%202.jpg)
+![Feature2](https://j.gifs.com/Pj9DKl.gif)
 
 3. Comparing data in bar chart, such as weekly rent vs weekly mortgage
 
-![alt text](https://github.com/tonywongthw/Melbourne-Liveability/blob/main/Screenshots/Feature%203.jpg)
+![Feature3](https://j.gifs.com/Rl0GK0.gif)
+
+# Demo
+
+Full Demonstration is available in the following Youtube Video Link
+https://www.youtube.com/watch?v=06PgcuYHC_k
 
 # Design Overview
 
