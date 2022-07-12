@@ -1,14 +1,13 @@
 # Melbourne Liveability
  A two tier web application for visualising statistical data on map.
 
-# Features
-
- Map : Leaflet
- Backend : Flask
- Frontend : React, NodeJS
- Database : CouchDB
- API : Twitter API
- Deployment : Ansible
+# Tech Stacks
+Map Library: Leaflet
+Backend : Flask
+Frontend : React, NodeJS
+Database : CouchDB
+API : Twitter API
+Deployment : Ansible
 
 # Features
 
