@@ -3,10 +3,15 @@
 
 # Tech Stacks
 Map Library: Leaflet
+
 Backend : Flask
+
 Frontend : React, NodeJS
+
 Database : CouchDB
+
 API : Twitter API
+
 Deployment : Ansible
 
 # Features
