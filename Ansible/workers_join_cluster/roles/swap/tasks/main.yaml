@@ -1,0 +1,13 @@
+---
+
+- name: disable swap
+  become: yes
+  ansible.builtin.shell:
+          cmd: swapoff -a
+          creates: swap_disabled.txt
+
+- name: prevent swap partition mounting
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'sed -i "/ swap / s/^\(.*\)$/#\1/g" /etc/fstab >> swap_disabled.txt'
+          creates: swap_disabled.txt

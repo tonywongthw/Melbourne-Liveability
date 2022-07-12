@@ -1,0 +1,6 @@
+- hosts: control
+  environment:
+          KUBECONFIG: /home/ubuntu/.kube/config
+  roles:
+          - role: git
+          - role: deploy

@@ -1,0 +1,21 @@
+---
+
+- name: create custom resource definition for VirtualServer
+  ansible.builtin.shell:
+          cmd: 'kubectl apply -f /home/ubuntu/kubernetes-ingress/deployments/common/crds/k8s.nginx.org_virtualservers.yaml'
+
+- name: create custom resource definition for VirtualServerRoute
+  ansible.builtin.shell:
+          cmd: 'kubectl apply -f /home/ubuntu/kubernetes-ingress/deployments/common/crds/k8s.nginx.org_virtualserverroutes.yaml'
+
+- name: create custom resource definition for TransportServer
+  ansible.builtin.shell:
+          cmd: 'kubectl apply -f /home/ubuntu/kubernetes-ingress/deployments/common/crds/k8s.nginx.org_transportservers.yaml'
+
+- name: create custom resource definition for Policy
+  ansible.builtin.shell:
+          cmd: 'kubectl apply -f /home/ubuntu/kubernetes-ingress/deployments/common/crds/k8s.nginx.org_policies.yaml'
+
+- name: create custom resource definition for GlobalConfiguration
+  ansible.builtin.shell:
+          cmd: 'kubectl apply -f /home/ubuntu/kubernetes-ingress/deployments/common/crds/k8s.nginx.org_globalconfigurations.yaml'

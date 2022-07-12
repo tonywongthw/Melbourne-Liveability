@@ -1,0 +1,43 @@
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+        name: webapp-frontend
+        namespace: default
+spec:
+        replicas: 3
+        selector:
+          matchLabels:
+            app: finalfrontend
+        strategy:
+          type: RollingUpdate
+        template:
+          metadata:
+            labels:
+              app: finalfrontend
+          spec:
+            containers:
+              - name: frontend
+                image: frontend:1.0
+                imagePullPolicy: Never
+                ports:
+                        - containerPort: 3000
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+        name: webapp-frontend-svc
+        namespace: default
+spec:
+  selector:
+    app: finalfrontend
+  type: NodePort
+  ports:
+    - protocol: "TCP"
+      port: 3000
+      targetPort: 3000
+      nodePort: 30004
+

@@ -1,0 +1,24 @@
+# Common vars
+availability_zone: melbourne-qh2-uom
+instance_image: 356ff1ed-5960-4ac2-96a1-0c0198e6a999
+instance_key_name: mesl
+instance_flavor: uom.mse.2c9g
+
+# Volume
+volumes:
+  - vol_name: worker_vol1
+    vol_size: 150
+  - vol_name: worker_vol2
+    vol_size: 150
+
+# Security group
+security_groups:
+  - name: ssh
+  - name: default
+
+# Instance
+instances:
+  - name: worker_node1
+    volumes: ['worker_vol1']
+  - name: worker_node2
+    volumes: ['worker_vol2']

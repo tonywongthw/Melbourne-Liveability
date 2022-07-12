@@ -1,0 +1,6 @@
+- hosts: [control]
+  vars_files:
+          inventory/vars.yaml
+
+  roles:
+    - role: init

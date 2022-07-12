@@ -1,0 +1,5 @@
+---
+
+- name: setup toolbox
+  ansible.builtin.shell:
+          cmd: 'kubectl create -f /home/ubuntu/rook/deploy/examples/toolbox.yaml'

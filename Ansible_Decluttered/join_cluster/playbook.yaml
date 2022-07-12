@@ -1,0 +1,34 @@
+---
+
+- name: get join command from control
+  hosts: control
+  environment:
+          KUBECONFIG: /home/ubuntu/.kube/config
+  roles:
+          - role: authentication
+
+- name: join worker nodes to cluster
+  hosts: mesl_workers
+  vars:
+          ansible_ssh_private_key_file: /home/mesl/.ssh/mesl.pem
+  vars_files:
+          - inventory/vars.yaml
+  gather_facts: true
+  vars:
+          - incommandvar: "{{ hostvars[groups['control'][0]]['join_command']['stdout'] }}"
+  roles:
+          - role: swap
+          - role: join
+
+- name: join worker node with different private key to cluster
+  hosts: couchdb
+  vars:
+          ansible_ssh_private_key_file: /home/mesl/.ssh/cloud.key
+  vars_files:
+          - inventory/vars.yaml
+  gather_facts: true
+  vars:
+          - incommandvar: "{{ hostvars[groups['control'][0]]['join_command']['stdout'] }}"
+  roles:
+          - role: swap
+          - role: join

@@ -1,0 +1,22 @@
+.ant-layout-content {
+    min-height: 200px;
+    line-height: 120px;
+    background: rgb(255, 255, 255);
+    color:rgb(175, 103, 103);
+    padding: 50px;
+    padding-top: 30px;
+    height: calc(100vh - 64px);
+}
+
+.ant-layout-footer {
+    position:sticky;
+    padding-bottom: 100px;
+}
+
+.leaflet-bottom.leaflet-left {
+    background: #ffffff82;
+    padding: 5px;
+    border: #b3b3b3;
+    border-width: thin;
+    border-style: solid;
+}

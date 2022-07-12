@@ -1,0 +1,5 @@
+---
+
+- name: create CRDs
+  ansible.builtin.shell:
+          cmd: 'kubectl create -f /home/ubuntu/rook/deploy/examples/crds.yaml'

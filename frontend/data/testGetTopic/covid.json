@@ -1,0 +1,21 @@
+{"rows":[
+{"key":["Caulfield - North","neutral"],"value":9},
+{"key":["Geelong","negative"],"value":35},
+{"key":["Geelong","neutral"],"value":12},
+{"key":["Geelong","positive"],"value":24},
+{"key":["Gisborne","neutral"],"value":8},
+{"key":["Gisborne","positive"],"value":9},
+{"key":["Melbourne","negative"],"value":989},
+{"key":["Melbourne","neutral"],"value":724},
+{"key":["Melbourne","positive"],"value":1056},
+{"key":["Melton","negative"],"value":21},
+{"key":["Melton","neutral"],"value":7},
+{"key":["Melton","positive"],"value":9},
+{"key":["Pakenham","negative"],"value":13},
+{"key":["Pakenham","positive"],"value":10},
+{"key":["Portarlington","negative"],"value":2},
+{"key":["Portarlington","neutral"],"value":2},
+{"key":["Southbank","positive"],"value":9},
+{"key":["Sunbury","neutral"],"value":8},
+{"key":["Wallan","negative"],"value":8}
+]}

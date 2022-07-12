@@ -1,0 +1,13 @@
+---
+
+- name: copy stream folder to cluster
+  ansible.builtin.copy:
+          remote_src: no
+          force: yes
+          src: /Users/belkok/Documents/GitHub/COMP90024/COMP90024_A2/Ansible/cluster_couchdballocate/couchdballocate
+          dest: /home/ubuntu
+
+- name: build docker images
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'docker build -t couchdballocate:1.0 /home/ubuntu/couchdballocate'

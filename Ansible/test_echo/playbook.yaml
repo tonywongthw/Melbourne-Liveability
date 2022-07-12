@@ -1,0 +1,6 @@
+- hosts: workers
+  gather_facts: true
+  vars_files:
+    - inventory/vars.yaml
+  roles:
+    - role: apt

@@ -1,0 +1,4 @@
+- hosts: [control, workers]
+
+  roles:
+    - role: dependencies

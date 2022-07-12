@@ -1,0 +1,12 @@
+---
+
+- name: Create volume
+  openstack.cloud.volume:
+    display_name: couchdb_vol
+    size: 100
+    availability_zone: melbourne-qh2-uom
+    wait: yes
+    timeout: 600
+    state: present
+  register: os_vol
+

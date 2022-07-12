@@ -1,0 +1,27 @@
+THERE IS A FOLLOW UP AFTER RUNNING HELM TO INSTALL THE PACKAGE
+
+MAKE SURE TO READ THE OUTPUT FROM ANSIBLE
+
+output in my case:
+        "NAME: couchdb123",
+        "LAST DEPLOYED: Fri Apr 22 13:11:44 2022",
+        "NAMESPACE: default",
+        "STATUS: deployed",
+        "REVISION: 1",
+        "TEST SUITE: None",
+        "NOTES:",
+        "Apache CouchDB is starting. Check the status of the Pods using:",
+        "",
+        "  kubectl get pods --namespace default -l \"app=couchdb,release=couchdb123\"",
+        "",
+        "Once all of the Pods are fully Ready, execute the following command to create",
+        "some required system databases:",
+        "",
+        "  kubectl exec --namespace default -it couchdb123-couchdb-0 -c couchdb -- \\",
+        "    curl -s \\",
+        "    http://127.0.0.1:5984/_cluster_setup \\",
+        "    -X POST \\",
+        "    -H \"Content-Type: application/json\" \\",
+        "    -d '{\"action\": \"finish_cluster\"}' \\",
+        "    -u <adminUsername>",
+

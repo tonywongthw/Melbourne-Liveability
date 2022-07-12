@@ -1,0 +1,6 @@
+---
+# test the ansible.builtin.command module
+- name: echo
+  become: yes
+  ansible.builtin.command:
+          cmd: apt install pip

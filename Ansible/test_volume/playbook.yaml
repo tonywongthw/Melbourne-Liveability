@@ -1,0 +1,8 @@
+- hosts: workers
+  vars_files:
+    - inventory/vars.yaml
+  gather_facts: true
+
+  roles:
+    - role: volume
+    - role: echo

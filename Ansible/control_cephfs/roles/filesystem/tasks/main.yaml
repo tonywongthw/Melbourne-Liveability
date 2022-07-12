@@ -1,0 +1,10 @@
+---
+
+- name: edit playbook
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'sed -i "s/myfs/k8sfs/" /home/ubuntu/rook/deploy/examples/filesystem.yaml'
+
+- name: start cephfs using rook
+  ansible.builtin.shell:
+          cmd: 'kubectl create -f /home/ubuntu/rook/deploy/examples/filesystem.yaml'

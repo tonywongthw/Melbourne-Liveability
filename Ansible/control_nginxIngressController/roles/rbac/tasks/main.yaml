@@ -1,0 +1,10 @@
+---
+
+- name: create namespace and service account for Ingress controller
+  ansible.builtin.shell:
+          cmd: "kubectl apply -f /home/ubuntu/kubernetes-ingress/deployments/common/ns-and-sa.yaml"
+
+- name: create cluster role and cluster role binding for service account
+  ansible.builtin.shell:
+          cmd: "kubectl apply -f /home/ubuntu/kubernetes-ingress/deployments/rbac/rbac.yaml"
+

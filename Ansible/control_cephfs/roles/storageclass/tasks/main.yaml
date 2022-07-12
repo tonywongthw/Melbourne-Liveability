@@ -1,0 +1,15 @@
+---
+
+- name: edit storageclass name
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'sed -i "s/myfs/k8sfs/" /home/ubuntu/rook/deploy/examples/csi/cephfs/storageclass.yaml'
+
+- name: edit storageclass reclaim policy
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'sed -i "s/Delete/Retain/" /home/ubuntu/rook/deploy/examples/csi/cephfs/storageclass.yaml'
+
+- name: create the rook-ceph storageclass
+  ansible.builtin.shell:
+          cmd: 'kubectl create -f /home/ubuntu/rook/deploy/examples/csi/cephfs/storageclass.yaml'

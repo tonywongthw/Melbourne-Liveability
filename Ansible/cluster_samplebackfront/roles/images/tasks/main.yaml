@@ -1,0 +1,20 @@
+---
+
+- name: copy backend folder to cluster
+  ansible.builtin.copy:
+          remote_src: no
+          force: yes
+          src: /home/mesl/playbooks/cluster_samplebackfront/backend
+          dest: /home/ubuntu
+
+- name: copy frontend folder to cluster
+  ansible.builtin.copy:
+          remote_src: no
+          force: yes
+          src: /home/mesl/playbooks/cluster_samplebackfront/frontend
+          dest: /home/ubuntu
+
+- name: build images
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'docker build -t samplebackend:1.0 /home/ubuntu/backend; docker build -t samplefrontend:1.0 /home/ubuntu/frontend'

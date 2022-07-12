@@ -1,0 +1,13 @@
+---
+
+- name: create a deployment for the Ingress Controller
+  ansible.builtin.shell:
+          cmd: 'kubectl apply -f /home/ubuntu/kubernetes-ingress/deployments/deployment/nginx-ingress.yaml'
+
+- name: check on Ingress controller
+  ansible.builtin.shell:
+          cmd: 'kubectl get pods --namespace=nginx-ingress'
+
+- name: create nodeport service for ingress controller pods
+  ansible.builtin.shell:
+          cmd: 'kubectl create -f /home/ubuntu/kubernetes-ingress/deployments/service/nodeport.yaml'

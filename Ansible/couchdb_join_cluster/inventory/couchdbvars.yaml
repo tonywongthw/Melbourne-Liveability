@@ -1,0 +1,12 @@
+---
+#json file to concatenate to docker daemon.json
+ansible_ssh_private_key_file: ~mesl/.ssh/cloud.key
+ansible_python_interpreter: /usr/bin/python3
+
+daemon:
+        exec-opts: ["native.cgroupdriver=systemd"]
+        log-driver: "json-file"
+        storage-driver: "overlay2"
+        log-opts:
+                max-size: "100m"
+

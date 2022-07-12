@@ -1,0 +1,14 @@
+---
+
+- name: add helm chart from repo
+  ansible.builtin.shell:
+          cmd: 'helm repo add couchdb https://apache.github.io/couchdb-helm'
+
+- name: generate uuid
+  register: randuuid
+  ansible.builtin.shell:
+          cmd: 'uuidgen'
+
+- name: install couchdb with custom settings
+  ansible.builtin.shell:
+          cmd: 'helm install couchdb123 couchdb/couchdb --set persistentVolume.enabled=true --set persistentVolume.size=100Gi --set persistentVolume.storageClass=rook-cephfs --set persistentVolume.accessmodes={ReadWriteMany} --set service.type=NodePort --set couchdbConfig.couchdb.uuid={{ randuuid.stdout }}'

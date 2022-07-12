@@ -1,0 +1,5 @@
+- hosts: control
+
+  roles:
+    - role: filesystem
+    - role: storageclass

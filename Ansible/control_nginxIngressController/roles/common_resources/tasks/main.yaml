@@ -1,0 +1,20 @@
+---
+
+- name: edit deployment ingress-class yaml file
+  become: yes
+  ansible.builtin.lineinfile:
+          path: /home/ubuntu/kubernetes-ingress/deployments/common/ingress-class.yaml
+          regexp: '# '
+          state: absent
+
+- name: create secret and key for default NGINX server
+  ansible.builtin.shell:
+          cmd: "kubectl apply -f /home/ubuntu/kubernetes-ingress/deployments/common/default-server-secret.yaml"
+
+- name: create config map
+  ansible.builtin.shell:
+          cmd: "kubectl apply -f /home/ubuntu/kubernetes-ingress/deployments/common/nginx-config.yaml"
+
+- name: create IngressClass resource
+  ansible.builtin.shell:
+          cmd: "kubectl apply -f /home/ubuntu/kubernetes-ingress/deployments/common/ingress-class.yaml"

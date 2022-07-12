@@ -1,0 +1,13 @@
+---
+
+- name: copy manifest to cluster
+  ansible.builtin.copy:
+          remote_src: no
+          force: yes
+          src: /home/mesl/playbooks/cluster_finalback/back.yaml
+          dest: /home/ubuntu
+
+- name: create deployment
+  kubernetes.core.k8s:
+          state: present
+          src: /home/ubuntu/back.yaml

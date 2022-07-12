@@ -1,0 +1,59 @@
+{
+    "rows": [
+      {
+        "key": [
+          "Abbotsford", 
+          "negative"
+        ], 
+        "value": 11
+      }, 
+      {
+        "key": [
+          "Abbotsford", 
+          "neutral"
+        ], 
+        "value": 1
+      }, 
+      {
+        "key": [
+          "Abbotsford", 
+          "positive"
+        ], 
+        "value": 1
+      },
+      {
+        "key": [
+          "Abbotsford", 
+          "negative"
+        ], 
+        "value": 1
+      }, 
+      {
+        "key": [
+          "Abbotsford", 
+          "neutral"
+        ], 
+        "value": 2
+      },{
+        "key": [
+          "Abbotsford2", 
+          "negative"
+        ], 
+        "value": 11
+      }, 
+      {
+        "key": [
+          "Abbotsford2", 
+          "neutral"
+        ], 
+        "value": 1
+      }, 
+      {
+        "key": [
+          "Abbotsford2", 
+          "positive"
+        ], 
+        "value": 1
+      }
+    ]
+}

@@ -1,0 +1,9 @@
+---
+
+- name: create common resources
+  ansible.builtin.shell:
+          cmd: 'kubectl create -f /home/ubuntu/rook/deploy/examples/common.yaml'
+
+- name: deploy Rook Ceph operator
+  ansible.builtin.shell:
+          cmd: 'kubectl create -f /home/ubuntu/rook/deploy/examples/operator.yaml'

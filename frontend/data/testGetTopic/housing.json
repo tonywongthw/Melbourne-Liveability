@@ -1,0 +1,16 @@
+{"rows":[
+    {"key":["Chelsea - Bonbeach","positive"],"value":11},
+    {"key":["Drysdale - Clifton Springs","positive"],"value":12},
+    {"key":["Geelong","negative"],"value":2},
+    {"key":["Geelong","positive"],"value":7},
+    {"key":["Lara","negative"],"value":6},
+    {"key":["Melbourne","negative"],"value":178},
+    {"key":["Melbourne","neutral"],"value":148},
+    {"key":["Melbourne","positive"],"value":277},
+    {"key":["Melton","negative"],"value":20},
+    {"key":["Melton","neutral"],"value":31},
+    {"key":["Melton","positive"],"value":16},
+    {"key":["Pakenham","positive"],"value":6},
+    {"key":["Sunbury","negative"],"value":5}
+    ]
+}

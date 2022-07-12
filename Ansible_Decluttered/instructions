@@ -1,0 +1,22 @@
+
+
+1. mrc -> creates the instances and volumes
+2. installations -> downloads necessary packages on instance
+3. create_cluster -> starts the k8s cluster on kubeadm_instance
+4. join_cluster -> adds worker nodes to the cluster
+5. control_helm -> install helm on control node
+6. control_rook -> deploy rook storage orchestrator on cluster
+CHECK THAT ROOK DEPLOYMENT IS RUNNING BEFORE PROCEEDING
+7. control_createceph -> deploy Ceph storage cluster
+CHECK THAT THE CEPHCLUSTER "rook-ceph" IS READY BEFORE PROCEEDING
+8. control_cephtoolbox -> install tools for diagnosing storage solution
+9. control_cephfs -> make Ceph FS available for use as persistent storage
+10. control_couchdbviahelm -> configure and deploy CouchDB cluster using helm chart
+11. ssh onto kubeadm_instance and type "helm get values couchdb123". Then follow the instructions to finalize setup of CouchDB
+
+OTHER FUNCTIONALITIES
+12. cluster_harvestmanifest -> setup twitter harvester on cluster
+
+(after views are created)
+cluster_finalback
+cluster_finalfront

@@ -1,0 +1,20 @@
+---
+
+- name: Format volume
+  ansible.builtin.command:
+          cmd: sudo mkfs -t ext4 /dev/vdb
+
+- name: Delete existing directories
+  become: yes
+  ansible.builtin.command:
+          cmd: rm -fr /data
+
+- name: Create directory
+  become: yes
+  ansible.builtin.command:
+          cmd: sudo mkdir /data
+
+- name: Mount volume
+  become: yes
+  ansible.builtin.command:
+          cmd: sudo mount /dev/vdb /data

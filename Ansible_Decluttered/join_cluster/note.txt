@@ -1,0 +1,4 @@
+as with the script for creating the cluster, this script will not work if the join command has been run previously
+
+to fix, ssh onto the worker nodes and run 'sudo kubeadm reset'
+without quotes

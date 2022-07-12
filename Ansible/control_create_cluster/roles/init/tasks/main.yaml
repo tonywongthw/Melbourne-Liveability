@@ -1,0 +1,53 @@
+---
+
+- name: disable swap
+  become: yes
+  ansible.builtin.shell:
+          cmd: swapoff -a
+          creates: swap_disabled.txt
+
+- name: prevent swap partition mounting
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'sed -i "/ swap / s/^\(.*\)$/#\1/g" /etc/fstab >> swap_disabled.txt'
+          creates: swap_disabled.txt
+
+- name: copy json to docker daemon file
+  become: yes
+  ansible.builtin.copy:
+          dest: /etc/docker/daemon.json
+          content: "{{ daemon | to_nice_json }}"
+
+- name: restart docker
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'systemctl enable docker; systemctl daemon-reload; systemctl restart docker'
+
+- name: Initialize kubernetes cluster
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'kubeadm init --pod-network-cidr=10.244.0.0/16'
+
+- name: create kube directory
+  become: yes
+  become_user: ubuntu
+  ansible.builtin.file:
+          path: $HOME/.kube
+          state: directory
+          mode: 0755
+
+- name: copy configuration file
+  become: yes
+  ansible.builtin.copy:
+          src: /etc/kubernetes/admin.conf
+          dest: /home/ubuntu/.kube/config
+          remote_src: yes
+          owner: ubuntu
+
+- name: install pod network
+  become: yes
+  environment:
+          KUBECONFIG: '/home/ubuntu/.kube/config'
+  ansible.builtin.shell:
+          chdir: $HOME
+          cmd: 'kubectl apply -f https://raw.githubusercontent.com/flannel-io/flannel/master/Documentation/kube-flannel.yml'

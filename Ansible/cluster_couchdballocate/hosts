@@ -1,0 +1,15 @@
+[workers]
+ubuntu@172.26.128.201
+ubuntu@172.26.133.82
+ubuntu@172.26.132.238
+
+[control]
+ubuntu@172.26.130.162
+
+[couchdb]
+ubuntu@172.26.132.238
+
+[mesl]
+ubuntu@172.26.130.162
+ubuntu@172.26.128.201
+ubuntu@172.26.133.82

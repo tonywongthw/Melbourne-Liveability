@@ -1,0 +1,5 @@
+wheel
+tweepy
+couchdb
+shapely
+vaderSentiment

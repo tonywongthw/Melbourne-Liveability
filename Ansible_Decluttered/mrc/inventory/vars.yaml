@@ -1,0 +1,36 @@
+# Common vars
+availability_zone: melbourne-qh2-uom
+instance_image: 356ff1ed-5960-4ac2-96a1-0c0198e6a999
+instance_key_name: mesl
+instance_flavor: uom.mse.2c9g
+
+# Volume
+# DO NOT MOUNT 100GB VOLUMES!!!
+volumes:
+  - vol_name: kubeadm_vol
+    vol_size: 60
+  - vol_name: worker1_vol
+    vol_size: 100
+  - vol_name: front_vol
+    vol_size: 100
+  - vol_name: couchdb_vol
+    vol_size: 100
+
+# Security group
+security_groups:
+  - name: ssh
+  - name: default
+
+# Instance
+instances:
+  - name: kubeadm_instance
+    volumes: ['kubeadm_vol']
+  - name: worker_node1
+    volumes: ['worker1_vol']
+  - name: frontnode
+    volumes: ['front__vol']
+  - name: couchdb
+    volumes: ['couchdb_vol']
+
+
+

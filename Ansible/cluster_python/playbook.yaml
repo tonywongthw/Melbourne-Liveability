@@ -1,0 +1,11 @@
+- hosts: mesl
+  vars:
+          ansible_ssh_private_key_file: /home/mesl/.ssh/mesl.pem
+  roles:
+    - role: dependencies
+
+- hosts: couchdb
+  vars:
+          ansible_ssh_private_key_file: /home/mesl/.ssh/cloud.key
+  roles:
+          - role: dependencies

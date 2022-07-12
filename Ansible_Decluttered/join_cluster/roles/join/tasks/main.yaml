@@ -1,0 +1,17 @@
+---
+
+- name: copy json to docker daemon file
+  become: yes
+  ansible.builtin.copy:
+          dest: /etc/docker/daemon.json
+          content: "{{ daemon | to_nice_json }}"
+
+- name: restart docker
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'systemctl enable docker; systemctl daemon-reload; systemctl restart docker'
+
+- name: Join cluster via discovery token and CA hash from control node
+  become: yes
+  ansible.builtin.shell:
+          cmd: "{{ incommandvar }}"

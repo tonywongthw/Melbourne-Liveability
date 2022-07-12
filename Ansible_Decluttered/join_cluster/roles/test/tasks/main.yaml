@@ -1,0 +1,10 @@
+---
+# Install dependencies on the host
+- name: Print join command to stdout
+  register: join_command
+  ansible.builtin.shell:
+          cmd: kubeadm token create --print-join-command
+
+- name: print fact
+  ansible.builtin.shell:
+          cmd: echo '{{ join_command.stdout }}'

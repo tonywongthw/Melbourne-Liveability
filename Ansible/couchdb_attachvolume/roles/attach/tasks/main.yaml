@@ -1,0 +1,6 @@
+---
+
+- name: attach volumes to server
+  openstack.cloud.server_volume:
+          server: '{{ node }}'
+          volume: couchdb_vol

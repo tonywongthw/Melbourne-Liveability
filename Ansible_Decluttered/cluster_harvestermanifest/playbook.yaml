@@ -1,0 +1,22 @@
+---
+
+- name: building images
+  hosts: mesl
+  vars:
+          ansible_ssh_private_key_file: /home/mesl/.ssh/mesl.pem
+  roles:
+          - role: image
+
+- name: building images with different host
+  hosts: couchdb
+  vars:
+         ansible_ssh_private_key_file: /home/mesl/.ssh/cloud.key
+  roles:
+          - role: image
+
+- name: create the deployment
+  hosts: control
+  vars:
+          ansible_ssh_private_key_file: /home/mesl/.ssh/mesl.pem
+  roles:
+          - role: deploy 

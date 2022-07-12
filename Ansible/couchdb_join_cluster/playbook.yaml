@@ -1,0 +1,21 @@
+---
+
+- name: get join command from control
+  hosts: control
+  vars_files:
+          - inventory/controlvars.yaml
+  environment:
+          KUBECONFIG: /home/ubuntu/.kube/config
+  roles:
+          - role: authentication
+
+- name: join worker nodes to cluster
+  hosts: couchdb
+  vars_files:
+          - inventory/couchdbvars.yaml
+  gather_facts: true
+  vars:
+          - incommandvar: "{{ hostvars[groups['control'][0]]['join_command']['stdout'] }}"
+  roles:
+          - role: swap
+          - role: join

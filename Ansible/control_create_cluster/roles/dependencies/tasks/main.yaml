@@ -1,0 +1,6 @@
+---
+
+- name: Test docker installation
+  become: yes
+  ansible.builtin.pip:
+          name: pexpect

@@ -1,0 +1,17 @@
+---
+
+- name: pull Ingress Controller image from DockerHub
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'docker pull nginx/nginx-ingress'
+
+- name: remove git repository in case of duplicates
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'rm -fr /home/ubuntu/kubernetes-ingress'
+
+- name: clone git repository
+  ansible.builtin.git:
+          repo: https://github.com/nginxinc/kubernetes-ingress.git
+          dest: /home/ubuntu/kubernetes-ingress
+          version: release-2.2

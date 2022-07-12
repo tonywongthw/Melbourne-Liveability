@@ -1,0 +1,13 @@
+---
+
+- name: copy frontend folder to cluster
+  ansible.builtin.copy:
+          remote_src: no
+          force: yes
+          src: /home/mesl/playbooks/cluster_finalfront/frontend
+          dest: /home/ubuntu
+
+- name: build images
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'docker build -t frontend:1.0 /home/ubuntu/frontend'

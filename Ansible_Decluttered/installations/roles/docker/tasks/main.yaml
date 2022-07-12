@@ -1,0 +1,29 @@
+---
+
+- name: Other installs
+  become: yes
+  ansible.builtin.apt:
+          force_apt_get: yes
+          only_upgrade: yes
+          update_cache: yes
+          name: ['ca-certificates', 'curl', 'gnupg', 'lsb-release']
+
+- name: Add GPG key
+  become: yes
+  ansible.builtin.expect:
+          command: '/bin/bash -c "curl -fsSL https://download.docker.com/linux/ubuntu/gpg | gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg"'
+          responses:
+                  Over.: 'y'
+
+- name: Set up repository
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null'
+
+- name: Install Docker Engine
+  become: yes
+  ansible.builtin.apt:
+          force_apt_get: yes
+          update_cache: yes
+          name: ['docker-ce', 'docker-ce-cli', 'containerd.io']
+

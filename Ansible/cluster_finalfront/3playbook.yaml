@@ -1,0 +1,9 @@
+---
+
+- name: building images with different host
+  hosts: couchdb
+  vars:
+         ansible_ssh_private_key_file: /home/mesl/.ssh/cloud.key
+  roles:
+          - role: images
+

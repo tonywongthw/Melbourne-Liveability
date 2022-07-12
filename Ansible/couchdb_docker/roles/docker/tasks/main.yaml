@@ -1,0 +1,43 @@
+---
+
+- name: remove sources.list
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'rm -f /etc/apt/source.list.d/docker.list'
+
+
+- name: remove sources.list.d
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'rm -f /etc/apt/source.list.d/download_docker_com_linux_ubuntu.list'
+
+- name: remove docker.gpg key
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'rm -f /usr/share/keyrings/docker-archive-keyring.gpg'
+
+- name: Other installs
+  become: yes
+  ansible.builtin.apt:
+          force_apt_get: yes
+          only_upgrade: yes
+          update_cache: yes
+          name: ['ca-certificates', 'curl', 'gnupg', 'lsb-release']
+
+- name: Add GPG key
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'curl -fsSL https://download.docker.com/linux/ubuntu/gpg | gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg'
+
+- name: Set up repository
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null'
+
+- name: Install Docker Engine
+  become: yes
+  ansible.builtin.apt:
+          force_apt_get: yes
+          update_cache: yes
+          name: ['docker-ce', 'docker-ce-cli', 'containerd.io']
+

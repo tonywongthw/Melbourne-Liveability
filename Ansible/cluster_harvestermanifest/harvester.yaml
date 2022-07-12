@@ -1,0 +1,25 @@
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+        name: twitterstream-deployment
+spec:
+        replicas: 1
+        selector:
+          matchLabels:
+            app: twitterstream
+        strategy:
+          type: RollingUpdate
+        template:
+          metadata:
+            labels:
+              app: twitterstream
+          spec:
+            containers:
+              - name: tweetstream
+                image: tweetstream:1.0
+                imagePullPolicy: Never
+              - name: tweetsearch
+                image: tweetsearch:1.0
+                imagePullPolicy: Never

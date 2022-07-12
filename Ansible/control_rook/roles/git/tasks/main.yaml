@@ -1,0 +1,10 @@
+---
+
+- name: pull rook from repository
+  become: yes
+  ansible.builtin.git:
+          repo: https://github.com/rook/rook.git
+          dest: /home/ubuntu/rook
+          single_branch: yes
+          version: release-1.9
+          force: yes

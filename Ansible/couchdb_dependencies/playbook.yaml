@@ -1,0 +1,5 @@
+- hosts: couchdb
+  gather_facts: true
+
+  roles:
+    - role: dependencies

@@ -1,0 +1,8 @@
+[control]
+master ansible_host=172.26.130.162 ansible_username=ubuntu
+
+[workers]
+worker1 ansible_host=172.26.133.221 ansible_username=ubuntu
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3

@@ -1,0 +1,45 @@
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+        name: samplebackend-deployment
+        namespace: default
+spec:
+        replicas: 3
+        selector:
+          matchLabels:
+            app: samplebackend
+        strategy:
+          type: RollingUpdate
+        template:
+          metadata:
+            labels:
+              app: samplebackend
+          spec:
+            containers:
+              - name: backend
+                image: samplebackend:1.0
+                imagePullPolicy: Never
+                ports:
+                        - containerPort: 5000
+                          name: backendport
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+        name: backend-service
+        namespace: default
+spec:
+  selector:
+    app: samplebackend
+  clusterIP: "10.109.223.25"
+  type: NodePort
+  ports:
+    - protocol: "TCP"
+      port: 5000
+      targetPort: backendport
+      nodePort: 30002
+

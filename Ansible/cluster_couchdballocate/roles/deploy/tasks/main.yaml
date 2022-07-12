@@ -1,0 +1,13 @@
+---
+
+- name: copy python scripts folder to cluster
+  ansible.builtin.copy:
+          remote_src: no
+          force: yes
+          src: /Users/belkok/Documents/GitHub/COMP90024/COMP90024_A2/Ansible/cluster_couchdballocate/couchdballocate.yaml
+          dest: /home/ubuntu
+
+- name: create deployment
+  kubernetes.core.k8s:
+          state: present
+          src: /home/ubuntu/couchdballocate.yaml

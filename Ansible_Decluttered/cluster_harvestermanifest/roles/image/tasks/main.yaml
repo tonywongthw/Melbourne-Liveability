@@ -1,0 +1,20 @@
+---
+
+- name: copy stream folder to cluster
+  ansible.builtin.copy:
+          remote_src: no
+          force: yes
+          src: /home/mesl/playbooks/cluster_harvestermanifest/stream
+          dest: /home/ubuntu
+
+- name: copy search folder to cluster
+  ansible.builtin.copy:
+          remote_src: no
+          force: yes
+          src: /home/mesl/playbooks/cluster_harvestermanifest/search
+          dest: /home/ubuntu
+
+- name: build docker images
+  become: yes
+  ansible.builtin.shell:
+          cmd: 'docker build -t tweetstream:1.0 /home/ubuntu/stream; docker build -t tweetsearch:1.0 /home/ubuntu/search'

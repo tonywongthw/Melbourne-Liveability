@@ -1,0 +1,13 @@
+---
+
+- name: copy python scripts folder to cluster
+  ansible.builtin.copy:
+          remote_src: no
+          force: yes
+          src: /home/mesl/playbooks/cluster_harvestermanifest/harvester.yaml
+          dest: /home/ubuntu
+
+- name: create deployment
+  kubernetes.core.k8s:
+          state: present
+          src: /home/ubuntu/harvester.yaml

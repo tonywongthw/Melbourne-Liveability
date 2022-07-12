@@ -1,0 +1,4494 @@
+[
+    {
+        "created_at": "Fri Apr 22 03:31:19 +0000 2022",
+        "id": 1517345277992382465,
+        "id_str": "1517345277992382465",
+        "text": "@blowingtom2 With or without COVID he should be in isolation for the sake of the country",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "blowingtom2",
+                    "name": "Tom the whistleblower MK2",
+                    "id": 1503982061459505153,
+                    "id_str": "1503982061459505153",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1517065504317272064,
+        "in_reply_to_status_id_str": "1517065504317272064",
+        "in_reply_to_user_id": 1503982061459505153,
+        "in_reply_to_user_id_str": "1503982061459505153",
+        "in_reply_to_screen_name": "blowingtom2",
+        "user": {
+            "id": 753801156678344704,
+            "id_str": "753801156678344704",
+            "name": "Didyabringadogalong",
+            "screen_name": "gary55wands55",
+            "location": "Melbourne, Victoria",
+            "description": "retired young fella, keen cyclists, ardent political follower, keen to see a world well looked after to follow my demise. Oh and GO DEES",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 62,
+            "friends_count": 89,
+            "listed_count": 2,
+            "created_at": "Fri Jul 15 03:59:35 +0000 2016",
+            "favourites_count": 1655,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4977,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1101322760096083968/B9g3xYrf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101322760096083968/B9g3xYrf_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:30:49 +0000 2022",
+        "id": 1517345151131451394,
+        "id_str": "1517345151131451394",
+        "text": "@ccarthy I feel like the point about The Nationals is redundant. If it was capital efficient, they'd just have LNP\u2026 https://t.co/3eb48nMCL0",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ccarthy",
+                    "name": "Courtney Carthy",
+                    "id": 18967805,
+                    "id_str": "18967805",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/3eb48nMCL0",
+                    "expanded_url": "https://twitter.com/i/web/status/1517345151131451394",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1517330275851587584,
+        "in_reply_to_status_id_str": "1517330275851587584",
+        "in_reply_to_user_id": 18967805,
+        "in_reply_to_user_id_str": "18967805",
+        "in_reply_to_screen_name": "ccarthy",
+        "user": {
+            "id": 2941794541,
+            "id_str": "2941794541",
+            "name": "JMoneyBags",
+            "screen_name": "michaelides_j",
+            "location": "Melbourne, Victoria",
+            "description": "\ud83d\udcbc: @UncommonShow, @GetCoinJar (Partnerships), Talent Manager, @redactedcartel, @OlympusDAO, @dopex_io",
+            "url": "https://t.co/fUo6c3uLCc",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/fUo6c3uLCc",
+                            "expanded_url": "http://www.neuralle.com/",
+                            "display_url": "neuralle.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 855,
+            "friends_count": 1070,
+            "listed_count": 207,
+            "created_at": "Wed Dec 24 11:01:15 +0000 2014",
+            "favourites_count": 10691,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 7802,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1503992408178315264/3zEp72Fy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1503992408178315264/3zEp72Fy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2941794541/1529139664",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:30:45 +0000 2022",
+        "id": 1517345135314731008,
+        "id_str": "1517345135314731008",
+        "text": "Labor is hoping Anthony Albanese\u2019s Covid diagnosis throws a harsh spotlight on to Scott Morrison https://t.co/YKWj7pouoH",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/YKWj7pouoH",
+                    "expanded_url": "https://www.theguardian.com/australia-news/2022/apr/22/labor-is-hoping-anthony-albaneses-covid-diagnosis-throws-a-harsh-spotlight-on-to-scott-morrison?CMP=Share_iOSApp_Other",
+                    "display_url": "theguardian.com/australia-news\u2026",
+                    "indices": [
+                        97,
+                        120
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 27419523,
+            "id_str": "27419523",
+            "name": "\ud83d\udc00\ud83d\udca7Lee \u2018Woke Capital City Greenie\u2019 Murray\ud83d\udd25\ud83c\udf0f\ud83c\udd98",
+            "screen_name": "cousincat",
+            "location": "Melbourne, Australia",
+            "description": "I'm a cynical, misanthropic, RWNJ-hating chick who believes Sartre was right re most peeps. My RTs ain\u2019t necessarily an endorsement - shld be obvious.\ud83d\ude09",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4166,
+            "friends_count": 5000,
+            "listed_count": 119,
+            "created_at": "Sun Mar 29 12:54:07 +0000 2009",
+            "favourites_count": 289232,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 261897,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1451748154982813696/hGXJ9TjL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1451748154982813696/hGXJ9TjL_normal.jpg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:30:33 +0000 2022",
+        "id": 1517345084286828544,
+        "id_str": "1517345084286828544",
+        "text": "Anyone feel like delivering a few more n95s to my house while me and my housemate covid isolate. :)",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2494210622,
+            "id_str": "2494210622",
+            "name": "ASL? \ud83d\udecb\ufe0f",
+            "screen_name": "LiveLavaLamp",
+            "location": "Melbourne, Australia",
+            "description": "gay socialite",
+            "url": "https://t.co/x6LdAk1yRs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/x6LdAk1yRs",
+                            "expanded_url": "http://eBay.org.au",
+                            "display_url": "eBay.org.au",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 363,
+            "friends_count": 268,
+            "listed_count": 9,
+            "created_at": "Wed May 14 13:39:24 +0000 2014",
+            "favourites_count": 56050,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 12402,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1406216332371058691/9rIG90tn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406216332371058691/9rIG90tn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2494210622/1609375831",
+            "profile_link_color": "5CBFD1",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:30:05 +0000 2022",
+        "id": 1517344967651250176,
+        "id_str": "1517344967651250176",
+        "text": "@VictorianCHO Sixteen people died from Covid-19 yesterday in Victoria and the state is removing most protective mea\u2026 https://t.co/MIklABW80C",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "VictorianCHO",
+                    "name": "Chief Health Officer, Victoria",
+                    "id": 1182090678999736321,
+                    "id_str": "1182090678999736321",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/MIklABW80C",
+                    "expanded_url": "https://twitter.com/i/web/status/1517344967651250176",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1517316934739841024,
+        "in_reply_to_status_id_str": "1517316934739841024",
+        "in_reply_to_user_id": 1182090678999736321,
+        "in_reply_to_user_id_str": "1182090678999736321",
+        "in_reply_to_screen_name": "VictorianCHO",
+        "user": {
+            "id": 110584746,
+            "id_str": "110584746",
+            "name": "Call me Karen (she/her)",
+            "screen_name": "mosaicthinking",
+            "location": "Melbourne, Victoria",
+            "description": "Atheist speaking my truth. US & Australian policy & politics. Not looking for an argument. Or crypto.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 168,
+            "friends_count": 475,
+            "listed_count": 0,
+            "created_at": "Tue Feb 02 02:13:15 +0000 2010",
+            "favourites_count": 66936,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5763,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/824537977/Cart_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/824537977/Cart_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/110584746/1597999896",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:27:05 +0000 2022",
+        "id": 1517344211422826497,
+        "id_str": "1517344211422826497",
+        "text": "@VicGovDH How are shops different from trains? Does the virus know where it is?",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "VicGovDH",
+                    "name": "VicGovDH",
+                    "id": 43064490,
+                    "id_str": "43064490",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1516643176865361924,
+        "in_reply_to_status_id_str": "1516643176865361924",
+        "in_reply_to_user_id": 43064490,
+        "in_reply_to_user_id_str": "43064490",
+        "in_reply_to_screen_name": "VicGovDH",
+        "user": {
+            "id": 67874287,
+            "id_str": "67874287",
+            "name": "Chris Wells #4Vaxxed \ud83d\udcbe\ud83c\uddec\ud83c\udde7\ud83c\udde6\ud83c\uddfa\ud83c\udf97\ufe0f\u24cb\ud83c\udf97\ufe0f(\ud83d\udc89*4)\ud83c\uddfa\ud83c\udde6",
+            "screen_name": "crispi_1971",
+            "location": "Melbourne, Victoria",
+            "description": "Virtual IT Geek. love80s/tech. #Vegan #Cyclist #CancerSurvivor #Science #Maths Diag'ed Follicular Lymphoma Stage IV Apr'11.\nRelapsed Double Hit Jul'19 #4Vaxxed",
+            "url": "https://t.co/ox85p61eQa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ox85p61eQa",
+                            "expanded_url": "http://fb.com/chrishasgotcancer",
+                            "display_url": "fb.com/chrishasgotcan\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 298,
+            "friends_count": 820,
+            "listed_count": 12,
+            "created_at": "Sat Aug 22 12:01:06 +0000 2009",
+            "favourites_count": 7091,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10117,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/843692722166812673/EKqYrr86_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/843692722166812673/EKqYrr86_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/67874287/1454909262",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:24:40 +0000 2022",
+        "id": 1517343604955488256,
+        "id_str": "1517343604955488256",
+        "text": "Do i have covid for the third time? Only time will tell",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1277829270660763648,
+            "id_str": "1277829270660763648",
+            "name": ";)",
+            "screen_name": "foresk1nny",
+            "location": "Melbourne, Victoria",
+            "description": "Gemini theyby",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2016,
+            "friends_count": 1189,
+            "listed_count": 2,
+            "created_at": "Tue Jun 30 05:00:29 +0000 2020",
+            "favourites_count": 383,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1435,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1516674030060797953/UrdVPZEd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516674030060797953/UrdVPZEd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1277829270660763648/1593499289",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:24:33 +0000 2022",
+        "id": 1517343575297921024,
+        "id_str": "1517343575297921024",
+        "text": "Man if there is something that really grinds my gears, it's when someone gets a virus during a pandemic. How dare y\u2026 https://t.co/MSR9CSyDtg",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/MSR9CSyDtg",
+                    "expanded_url": "https://twitter.com/i/web/status/1517343575297921024",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3311260651,
+            "id_str": "3311260651",
+            "name": "Just Scott Things",
+            "screen_name": "JstScottThings",
+            "location": "Melbourne, Victoria",
+            "description": "he/him, living on Wurundjeri land. Views are my own.\n\nWriter for @beatmagazine making music @ezraallen_rwp  editor @verandahjournal",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 115,
+            "friends_count": 411,
+            "listed_count": 1,
+            "created_at": "Mon Aug 10 06:57:17 +0000 2015",
+            "favourites_count": 2284,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1398,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1007520618143551488/pHL41Pva_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007520618143551488/pHL41Pva_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3311260651/1581750897",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:23:43 +0000 2022",
+        "id": 1517343364097605638,
+        "id_str": "1517343364097605638",
+        "text": "@Neutron2261 @larksyk @ScottMorrisonMP @JoshFrydenberg Well he got us through Covid as a country well retaining a t\u2026 https://t.co/tEy463D1xu",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Neutron2261",
+                    "name": "Neutron",
+                    "id": 897360667648303105,
+                    "id_str": "897360667648303105",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "larksyk",
+                    "name": "Total Eclipse",
+                    "id": 1462221719360335877,
+                    "id_str": "1462221719360335877",
+                    "indices": [
+                        13,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "ScottMorrisonMP",
+                    "name": "Scott Morrison",
+                    "id": 34116377,
+                    "id_str": "34116377",
+                    "indices": [
+                        22,
+                        38
+                    ]
+                },
+                {
+                    "screen_name": "JoshFrydenberg",
+                    "name": "Josh Frydenberg",
+                    "id": 63942152,
+                    "id_str": "63942152",
+                    "indices": [
+                        39,
+                        54
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/tEy463D1xu",
+                    "expanded_url": "https://twitter.com/i/web/status/1517343364097605638",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1517342817680429056,
+        "in_reply_to_status_id_str": "1517342817680429056",
+        "in_reply_to_user_id": 897360667648303105,
+        "in_reply_to_user_id_str": "897360667648303105",
+        "in_reply_to_screen_name": "Neutron2261",
+        "user": {
+            "id": 283965884,
+            "id_str": "283965884",
+            "name": "Luke Amott\ud83d\ude08 #MelbourneDemons2022",
+            "screen_name": "luke_amott",
+            "location": "Melbourne, Victoria",
+            "description": "I love all my friends and family my views and opinions are my own",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 413,
+            "friends_count": 1621,
+            "listed_count": 1,
+            "created_at": "Mon Apr 18 10:58:37 +0000 2011",
+            "favourites_count": 729,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 6599,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/720086100992110592/gwjDNXt1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/720086100992110592/gwjDNXt1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/283965884/1639808096",
+            "profile_link_color": "D02B55",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:23:16 +0000 2022",
+        "id": 1517343249916375040,
+        "id_str": "1517343249916375040",
+        "text": "@the_pimaster I think even the reporters have Covid fatigue in reporting, people don\u2019t want to hear about it so the\u2026 https://t.co/U8GuEHK2Ly",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "the_pimaster",
+                    "name": "Russell",
+                    "id": 47047405,
+                    "id_str": "47047405",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/U8GuEHK2Ly",
+                    "expanded_url": "https://twitter.com/i/web/status/1517343249916375040",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1517342904439943170,
+        "in_reply_to_status_id_str": "1517342904439943170",
+        "in_reply_to_user_id": 47047405,
+        "in_reply_to_user_id_str": "47047405",
+        "in_reply_to_screen_name": "the_pimaster",
+        "user": {
+            "id": 1330592049268019200,
+            "id_str": "1330592049268019200",
+            "name": "Victorian Bloke",
+            "screen_name": "AussieSheepDog",
+            "location": "Melbourne, Victoria",
+            "description": "Aussie bloke from Melbourne into political and strategic yarns. I try and do a bit of Archery, Golf and Surfing in my spare time.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11,
+            "friends_count": 193,
+            "listed_count": 1,
+            "created_at": "Sun Nov 22 19:21:02 +0000 2020",
+            "favourites_count": 4976,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6376,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1422714252029161474/ozdi-yrg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1422714252029161474/ozdi-yrg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1330592049268019200/1624498634",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+,
+    {
+        "created_at": "Fri Apr 22 03:20:06 +0000 2022",
+        "id": 1517342452386234369,
+        "id_str": "1517342452386234369",
+        "text": "@blowingtom2 The rules have changed but the virus remains the same. So I wonder how much numbers are going to go up?",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "blowingtom2",
+                    "name": "Tom the whistleblower MK2",
+                    "id": 1503982061459505153,
+                    "id_str": "1503982061459505153",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1517341749169238016,
+        "in_reply_to_status_id_str": "1517341749169238016",
+        "in_reply_to_user_id": 249328252,
+        "in_reply_to_user_id_str": "249328252",
+        "in_reply_to_screen_name": "mpwil50",
+        "user": {
+            "id": 249328252,
+            "id_str": "249328252",
+            "name": "wishIWasOnHolidays",
+            "screen_name": "mpwil50",
+            "location": "Melbourne, Victoria",
+            "description": "Medical Researcher (Masters of Epidemiology), app writer, keen skier and data nerd, interested in photography, health and technology. Views are my own.",
+            "url": "https://t.co/7AX8G82G4r",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7AX8G82G4r",
+                            "expanded_url": "http://www.kymest.com",
+                            "display_url": "kymest.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 235,
+            "friends_count": 788,
+            "listed_count": 2,
+            "created_at": "Tue Feb 08 20:45:56 +0000 2011",
+            "favourites_count": 4636,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 659,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000093916286/efb207d68ccadff76c5fce42714c28f9_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000093916286/efb207d68ccadff76c5fce42714c28f9_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/249328252/1459567852",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:19:55 +0000 2022",
+        "id": 1517342408559644673,
+        "id_str": "1517342408559644673",
+        "text": "@Jolly57La I\u2019ve lost count how many times would I have pressed the \ud83d\udca9 button during covid.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Jolly57La",
+                    "name": "Lesley Jolly \ud83d\udc89\ud83d\udc89\ud83d\udc89",
+                    "id": 845273894,
+                    "id_str": "845273894",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1517341509070495745,
+        "in_reply_to_status_id_str": "1517341509070495745",
+        "in_reply_to_user_id": 845273894,
+        "in_reply_to_user_id_str": "845273894",
+        "in_reply_to_screen_name": "Jolly57La",
+        "user": {
+            "id": 21449987,
+            "id_str": "21449987",
+            "name": "Richard",
+            "screen_name": "richo_1973",
+            "location": "Melbourne",
+            "description": "World Traveller \ud83c\udde6\ud83c\uddfa \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83d\udc11\ud83d\udc36 \ud83d\udc89\ud83d\udc89 \ud83d\udc89#aspergers parent #LGBTQI Ally #getvaxxinated #climatechange https://t.co/mOh392vWrd #albo4pm",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mOh392vWrd",
+                            "expanded_url": "https://ko-fi.com/richo1973",
+                            "display_url": "ko-fi.com/richo1973",
+                            "indices": [
+                                92,
+                                115
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 3643,
+            "friends_count": 4959,
+            "listed_count": 11,
+            "created_at": "Sat Feb 21 00:24:31 +0000 2009",
+            "favourites_count": 34006,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 38648,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1507999341318795266/3Wr0mpZF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1507999341318795266/3Wr0mpZF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21449987/1649575434",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:18:54 +0000 2022",
+        "id": 1517342152376074240,
+        "id_str": "1517342152376074240",
+        "text": "@SusanLa69642683 @VicGovDH I've had 4x doses, and still tested strongly positive yesterday. I am an autologous stem\u2026 https://t.co/8Zp7435oGP",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "SusanLa69642683",
+                    "name": "Susan",
+                    "id": 1501672027660242945,
+                    "id_str": "1501672027660242945",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "VicGovDH",
+                    "name": "VicGovDH",
+                    "id": 43064490,
+                    "id_str": "43064490",
+                    "indices": [
+                        17,
+                        26
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/8Zp7435oGP",
+                    "expanded_url": "https://twitter.com/i/web/status/1517342152376074240",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1516936000777334784,
+        "in_reply_to_status_id_str": "1516936000777334784",
+        "in_reply_to_user_id": 1501672027660242945,
+        "in_reply_to_user_id_str": "1501672027660242945",
+        "in_reply_to_screen_name": "SusanLa69642683",
+        "user": {
+            "id": 67874287,
+            "id_str": "67874287",
+            "name": "Chris Wells #4Vaxxed \ud83d\udcbe\ud83c\uddec\ud83c\udde7\ud83c\udde6\ud83c\uddfa\ud83c\udf97\ufe0f\u24cb\ud83c\udf97\ufe0f(\ud83d\udc89*4)\ud83c\uddfa\ud83c\udde6",
+            "screen_name": "crispi_1971",
+            "location": "Melbourne, Victoria",
+            "description": "Virtual IT Geek. love80s/tech. #Vegan #Cyclist #CancerSurvivor #Science #Maths Diag'ed Follicular Lymphoma Stage IV Apr'11.\nRelapsed Double Hit Jul'19 #4Vaxxed",
+            "url": "https://t.co/ox85p61eQa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ox85p61eQa",
+                            "expanded_url": "http://fb.com/chrishasgotcancer",
+                            "display_url": "fb.com/chrishasgotcan\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 298,
+            "friends_count": 820,
+            "listed_count": 12,
+            "created_at": "Sat Aug 22 12:01:06 +0000 2009",
+            "favourites_count": 7091,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10117,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/843692722166812673/EKqYrr86_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/843692722166812673/EKqYrr86_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/67874287/1454909262",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:17:18 +0000 2022",
+        "id": 1517341749169238016,
+        "id_str": "1517341749169238016",
+        "text": "@blowingtom2 Not unless there was 4 hrs of contact inside a house or house like setting. Workplaces are not counted\u2026 https://t.co/TDhAyQtgKH",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "blowingtom2",
+                    "name": "Tom the whistleblower MK2",
+                    "id": 1503982061459505153,
+                    "id_str": "1503982061459505153",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/TDhAyQtgKH",
+                    "expanded_url": "https://twitter.com/i/web/status/1517341749169238016",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1517065504317272064,
+        "in_reply_to_status_id_str": "1517065504317272064",
+        "in_reply_to_user_id": 1503982061459505153,
+        "in_reply_to_user_id_str": "1503982061459505153",
+        "in_reply_to_screen_name": "blowingtom2",
+        "user": {
+            "id": 249328252,
+            "id_str": "249328252",
+            "name": "wishIWasOnHolidays",
+            "screen_name": "mpwil50",
+            "location": "Melbourne, Victoria",
+            "description": "Medical Researcher (Masters of Epidemiology), app writer, keen skier and data nerd, interested in photography, health and technology. Views are my own.",
+            "url": "https://t.co/7AX8G82G4r",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7AX8G82G4r",
+                            "expanded_url": "http://www.kymest.com",
+                            "display_url": "kymest.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 235,
+            "friends_count": 788,
+            "listed_count": 2,
+            "created_at": "Tue Feb 08 20:45:56 +0000 2011",
+            "favourites_count": 4636,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 659,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000093916286/efb207d68ccadff76c5fce42714c28f9_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000093916286/efb207d68ccadff76c5fce42714c28f9_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/249328252/1459567852",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:17:12 +0000 2022",
+        "id": 1517341722522439681,
+        "id_str": "1517341722522439681",
+        "text": "@lovatt_harry I\u2019ve had covid. I\u2019ve had worse colds. Bye",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "lovatt_harry",
+                    "name": "\ud83d\udca7Catweasel",
+                    "id": 1549998044,
+                    "id_str": "1549998044",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1517335649145163777,
+        "in_reply_to_status_id_str": "1517335649145163777",
+        "in_reply_to_user_id": 1549998044,
+        "in_reply_to_user_id_str": "1549998044",
+        "in_reply_to_screen_name": "lovatt_harry",
+        "user": {
+            "id": 606242728,
+            "id_str": "606242728",
+            "name": "Hank Meyer \ud83c\udde6\ud83c\uddfa",
+            "screen_name": "HankMeyerNAPP",
+            "location": "Melbourne",
+            "description": "Gardening leave",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4970,
+            "friends_count": 5117,
+            "listed_count": 15,
+            "created_at": "Tue Jun 12 11:24:05 +0000 2012",
+            "favourites_count": 26855,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 6989,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/973376666872422401/-YfOfu-x_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/973376666872422401/-YfOfu-x_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/606242728/1603664560",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:16:32 +0000 2022",
+        "id": 1517341557019803650,
+        "id_str": "1517341557019803650",
+        "text": "@VicGovDH This is a mistake.\n\nThe virus has not gone away.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "VicGovDH",
+                    "name": "VicGovDH",
+                    "id": 43064490,
+                    "id_str": "43064490",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1516643172172017666,
+        "in_reply_to_status_id_str": "1516643172172017666",
+        "in_reply_to_user_id": 43064490,
+        "in_reply_to_user_id_str": "43064490",
+        "in_reply_to_screen_name": "VicGovDH",
+        "user": {
+            "id": 67874287,
+            "id_str": "67874287",
+            "name": "Chris Wells #4Vaxxed \ud83d\udcbe\ud83c\uddec\ud83c\udde7\ud83c\udde6\ud83c\uddfa\ud83c\udf97\ufe0f\u24cb\ud83c\udf97\ufe0f(\ud83d\udc89*4)\ud83c\uddfa\ud83c\udde6",
+            "screen_name": "crispi_1971",
+            "location": "Melbourne, Victoria",
+            "description": "Virtual IT Geek. love80s/tech. #Vegan #Cyclist #CancerSurvivor #Science #Maths Diag'ed Follicular Lymphoma Stage IV Apr'11.\nRelapsed Double Hit Jul'19 #4Vaxxed",
+            "url": "https://t.co/ox85p61eQa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ox85p61eQa",
+                            "expanded_url": "http://fb.com/chrishasgotcancer",
+                            "display_url": "fb.com/chrishasgotcan\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 298,
+            "friends_count": 820,
+            "listed_count": 12,
+            "created_at": "Sat Aug 22 12:01:06 +0000 2009",
+            "favourites_count": 7091,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10117,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/843692722166812673/EKqYrr86_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/843692722166812673/EKqYrr86_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/67874287/1454909262",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:16:30 +0000 2022",
+        "id": 1517341547125428225,
+        "id_str": "1517341547125428225",
+        "text": "I have shingles and they made a couple years in my 20s really really hard and I have such bad reoccurring nerve pai\u2026 https://t.co/Kq3F7rCXnH",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Kq3F7rCXnH",
+                    "expanded_url": "https://twitter.com/i/web/status/1517341547125428225",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 529138158,
+            "id_str": "529138158",
+            "name": "MadWomanInExile",
+            "screen_name": "Feministnerd",
+            "location": "Melbourne, Victoria",
+            "description": "I run my mouth like its the Olympics. Ex pat, whiskey specialist and fun girl extraordinaire. Chaotic Bi. Bad bitch in the bar industry. LA\u2708\ufe0fMelbourne they/she",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3466,
+            "friends_count": 988,
+            "listed_count": 114,
+            "created_at": "Mon Mar 19 05:49:40 +0000 2012",
+            "favourites_count": 95406,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 40862,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1427961140760301568/tzYcYA6B_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1427961140760301568/tzYcYA6B_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/529138158/1634628658",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1517107828493856769,
+        "quoted_status_id_str": "1517107828493856769",
+        "quoted_status": {
+            "created_at": "Thu Apr 21 11:47:47 +0000 2022",
+            "id": 1517107828493856769,
+            "id_str": "1517107828493856769",
+            "text": "If in 5 years #COVID is discovered to cause cancer like HPV, Multiple Sclerosis like EBV, liver failure like HepC,\u2026 https://t.co/mlZ2qUV6ZV",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "COVID",
+                        "indices": [
+                            14,
+                            20
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/mlZ2qUV6ZV",
+                        "expanded_url": "https://twitter.com/i/web/status/1517107828493856769",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 275104144,
+                "id_str": "275104144",
+                "name": "Ebony Jade Hilton, MD",
+                "screen_name": "EbonyJHilton_MD",
+                "location": "Charlottesville, VA",
+                "description": "Co-Founder @GOODSTOCK_LLC | Anesthesiologist \u25aa\ufe0f@MSNBC Medical Contributor \u25aa\ufe0fInventor \u25aa\ufe0fPublic Speaker \u25aa\ufe0f Author \u25aa\ufe0f Activist",
+                "url": "https://t.co/vlfbbrxGWh",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/vlfbbrxGWh",
+                                "expanded_url": "https://linktr.ee/GOODSTOCK",
+                                "display_url": "linktr.ee/GOODSTOCK",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 43545,
+                "friends_count": 5899,
+                "listed_count": 311,
+                "created_at": "Thu Mar 31 16:49:56 +0000 2011",
+                "favourites_count": 42974,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 30310,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EBEBEB",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1242747960678629376/xpQvPzvz_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242747960678629376/xpQvPzvz_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/275104144/1588019269",
+                "profile_link_color": "990000",
+                "profile_sidebar_border_color": "DFDFDF",
+                "profile_sidebar_fill_color": "F3F3F3",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5522,
+            "favorite_count": 30135,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "retweet_count": 2,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:15:13 +0000 2022",
+        "id": 1517341223186759681,
+        "id_str": "1517341223186759681",
+        "text": "@MaddyLoveSpare @FluoridePoison Yeah. Sweden 2020/2021 pre vaccine told me everything I needed to know about Covid.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MaddyLoveSpare",
+                    "name": "Madeleine Love *Free Julian Assange*",
+                    "id": 1389404162899673090,
+                    "id_str": "1389404162899673090",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "FluoridePoison",
+                    "name": "Geoffrey Norman Pain",
+                    "id": 59633402,
+                    "id_str": "59633402",
+                    "indices": [
+                        16,
+                        31
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1517341058174435328,
+        "in_reply_to_status_id_str": "1517341058174435328",
+        "in_reply_to_user_id": 1389404162899673090,
+        "in_reply_to_user_id_str": "1389404162899673090",
+        "in_reply_to_screen_name": "MaddyLoveSpare",
+        "user": {
+            "id": 1479807388060246016,
+            "id_str": "1479807388060246016",
+            "name": "Xinfinity",
+            "screen_name": "xinfinity22",
+            "location": "Melbourne, Victoria",
+            "description": "Second class citizen. 30s Melbourne Australia. #controlgroup",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 274,
+            "friends_count": 961,
+            "listed_count": 3,
+            "created_at": "Sat Jan 08 13:29:16 +0000 2022",
+            "favourites_count": 14347,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6265,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1516682576081338373/NY2PNACK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516682576081338373/NY2PNACK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479807388060246016/1641900324",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:14:08 +0000 2022",
+        "id": 1517340951814934529,
+        "id_str": "1517340951814934529",
+        "text": "@EmmaGri32745010 @erfbeeass First time was because that drug was found to help people with COVID who'd failed on ev\u2026 https://t.co/CpIO796W1t",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "EmmaGri32745010",
+                    "name": "EmmaG",
+                    "id": 1370987145628766208,
+                    "id_str": "1370987145628766208",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "erfbeeass",
+                    "name": "Turdine Cupcake",
+                    "id": 1378096248486387714,
+                    "id_str": "1378096248486387714",
+                    "indices": [
+                        17,
+                        27
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/CpIO796W1t",
+                    "expanded_url": "https://twitter.com/i/web/status/1517340951814934529",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1517340351802994688,
+        "in_reply_to_status_id_str": "1517340351802994688",
+        "in_reply_to_user_id": 24299842,
+        "in_reply_to_user_id_str": "24299842",
+        "in_reply_to_screen_name": "ditreble",
+        "user": {
+            "id": 24299842,
+            "id_str": "24299842",
+            "name": "Di Treble \ud83d\udd6f \ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc69\ud83d\udc89x4 \ud83d\udc00",
+            "screen_name": "ditreble",
+            "location": "Melbourne, Australia",
+            "description": "Artist, designer, writer. HP working in the public health sector. Advocate for aged care reform. Mum of \ud83d\udc36\ud83d\udc36. Posts are not an invitation to combative exchange.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 880,
+            "friends_count": 1223,
+            "listed_count": 3,
+            "created_at": "Sat Mar 14 01:19:31 +0000 2009",
+            "favourites_count": 34201,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 24174,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1871056426/Johanna4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871056426/Johanna4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24299842/1611130352",
+            "profile_link_color": "FF3300",
+            "profile_sidebar_border_color": "86A4A6",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:13:57 +0000 2022",
+        "id": 1517340908131614722,
+        "id_str": "1517340908131614722",
+        "text": "At one point I genuinely thought life expectancy post-covid would be state-based. \n\nNow I see we will all just be f\u2019d together.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1449541053703356416,
+            "id_str": "1449541053703356416",
+            "name": "Covid is Airborne in schools",
+            "screen_name": "AugersMonster",
+            "location": "Melbourne, Victoria",
+            "description": "New to twitter driven by a desperate need to understand why we\u2019ve given up on protecting our kids in Victoria",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1586,
+            "friends_count": 577,
+            "listed_count": 11,
+            "created_at": "Sun Oct 17 01:02:03 +0000 2021",
+            "favourites_count": 41008,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5401,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1517345627273052162/MpXuNWY6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1517345627273052162/MpXuNWY6_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+,
+    {
+        "created_at": "Fri Apr 22 03:13:38 +0000 2022",
+        "id": 1517340826544017409,
+        "id_str": "1517340826544017409",
+        "text": "Now my 9yo daughter has covid as well https://t.co/2KAeUGGyoh",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1517340816725135361,
+                    "id_str": "1517340816725135361",
+                    "indices": [
+                        38,
+                        61
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/FQ6tbwAaUAEaNXG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQ6tbwAaUAEaNXG.jpg",
+                    "url": "https://t.co/2KAeUGGyoh",
+                    "display_url": "pic.twitter.com/2KAeUGGyoh",
+                    "expanded_url": "https://twitter.com/Rocket_RyanV/status/1517340826544017409/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 498,
+                            "h": 370,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 498,
+                            "h": 370,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 498,
+                            "h": 370,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1517340816725135361,
+                    "id_str": "1517340816725135361",
+                    "indices": [
+                        38,
+                        61
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/FQ6tbwAaUAEaNXG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQ6tbwAaUAEaNXG.jpg",
+                    "url": "https://t.co/2KAeUGGyoh",
+                    "display_url": "pic.twitter.com/2KAeUGGyoh",
+                    "expanded_url": "https://twitter.com/Rocket_RyanV/status/1517340826544017409/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 498,
+                            "h": 370,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 498,
+                            "h": 370,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 498,
+                            "h": 370,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            249,
+                            185
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/FQ6tbwAaUAEaNXG.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 116693467,
+            "id_str": "116693467",
+            "name": "Vanderlay Industries",
+            "screen_name": "Rocket_RyanV",
+            "location": "Wurundjeri Land",
+            "description": "stuff n that",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 907,
+            "friends_count": 1213,
+            "listed_count": 34,
+            "created_at": "Tue Feb 23 09:12:28 +0000 2010",
+            "favourites_count": 19200,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 33404,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "03080B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1318094050616987648/8ftGwYhV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318094050616987648/8ftGwYhV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/116693467/1354877158",
+            "profile_link_color": "D21E1E",
+            "profile_sidebar_border_color": "880A37",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "D6CB63",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "01864a8a64df9dc4",
+            "url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json",
+            "place_type": "city",
+            "name": "Melbourne",
+            "full_name": "Melbourne, Victoria",
+            "country_code": "AU",
+            "country": "Australia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            144.593741856,
+                            -38.433859306
+                        ],
+                        [
+                            145.512528832,
+                            -38.433859306
+                        ],
+                        [
+                            145.512528832,
+                            -37.5112737225
+                        ],
+                        [
+                            144.593741856,
+                            -37.5112737225
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:11:45 +0000 2022",
+        "id": 1517340351802994688,
+        "id_str": "1517340351802994688",
+        "text": "@EmmaGri32745010 @erfbeeass Partly it's COVID - a lot more people simultaneously ill worldwide uses up a lot of dru\u2026 https://t.co/mvNLK2Z7Mr",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "EmmaGri32745010",
+                    "name": "EmmaG",
+                    "id": 1370987145628766208,
+                    "id_str": "1370987145628766208",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "erfbeeass",
+                    "name": "Turdine Cupcake",
+                    "id": 1378096248486387714,
+                    "id_str": "1378096248486387714",
+                    "indices": [
+                        17,
+                        27
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/mvNLK2Z7Mr",
+                    "expanded_url": "https://twitter.com/i/web/status/1517340351802994688",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1517070323589742597,
+        "in_reply_to_status_id_str": "1517070323589742597",
+        "in_reply_to_user_id": 1370987145628766208,
+        "in_reply_to_user_id_str": "1370987145628766208",
+        "in_reply_to_screen_name": "EmmaGri32745010",
+        "user": {
+            "id": 24299842,
+            "id_str": "24299842",
+            "name": "Di Treble \ud83d\udd6f \ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc69\ud83d\udc89x4 \ud83d\udc00",
+            "screen_name": "ditreble",
+            "location": "Melbourne, Australia",
+            "description": "Artist, designer, writer. HP working in the public health sector. Advocate for aged care reform. Mum of \ud83d\udc36\ud83d\udc36. Posts are not an invitation to combative exchange.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 880,
+            "friends_count": 1223,
+            "listed_count": 3,
+            "created_at": "Sat Mar 14 01:19:31 +0000 2009",
+            "favourites_count": 34203,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 24174,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1871056426/Johanna4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871056426/Johanna4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24299842/1611130352",
+            "profile_link_color": "FF3300",
+            "profile_sidebar_border_color": "86A4A6",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:11:38 +0000 2022",
+        "id": 1517340323717865472,
+        "id_str": "1517340323717865472",
+        "text": "@nickpmclaren I haven't had covid &amp; hope very much not to get it. Wear N95s when with people not from my household\u2026 https://t.co/Jb18AJjXGe",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "nickpmclaren",
+                    "name": "Nick McLaren",
+                    "id": 87884725,
+                    "id_str": "87884725",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Jb18AJjXGe",
+                    "expanded_url": "https://twitter.com/i/web/status/1517340323717865472",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        120,
+                        143
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1517258462815985665,
+        "in_reply_to_status_id_str": "1517258462815985665",
+        "in_reply_to_user_id": 87884725,
+        "in_reply_to_user_id_str": "87884725",
+        "in_reply_to_screen_name": "nickpmclaren",
+        "user": {
+            "id": 2217719930,
+            "id_str": "2217719930",
+            "name": "Mish Mash",
+            "screen_name": "custardpear",
+            "location": "Melbourne, Victoria",
+            "description": "On a road less travelled, but gazing at the main drag with much interest. Born @ 317 ppm on Djadjawurung country.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 263,
+            "friends_count": 736,
+            "listed_count": 1,
+            "created_at": "Wed Nov 27 12:44:10 +0000 2013",
+            "favourites_count": 93552,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5083,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1428339204354805761/MTufIMZw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1428339204354805761/MTufIMZw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2217719930/1586068462",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:09:20 +0000 2022",
+        "id": 1517339744262561792,
+        "id_str": "1517339744262561792",
+        "text": "@RealEarthParty You can if you've previously studied something similar before.\nThe vaccine was formulated from the\u2026 https://t.co/y9GbJQzZKt",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RealEarthParty",
+                    "name": "The Earth Party",
+                    "id": 3413186585,
+                    "id_str": "3413186585",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/y9GbJQzZKt",
+                    "expanded_url": "https://twitter.com/i/web/status/1517339744262561792",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1517228114493022208,
+        "in_reply_to_status_id_str": "1517228114493022208",
+        "in_reply_to_user_id": 3413186585,
+        "in_reply_to_user_id_str": "3413186585",
+        "in_reply_to_screen_name": "RealEarthParty",
+        "user": {
+            "id": 1427616994438705152,
+            "id_str": "1427616994438705152",
+            "name": "Ash R. \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f \ud83c\udde6\ud83c\uddfa",
+            "screen_name": "ActuallyAsh992",
+            "location": "Melbourne, Victoria",
+            "description": "Transwoman for 15 years and going strong. \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\nNot bothered by transphobes. \ud83e\udd37\nLow tolerance for anti vaxxers and conspiracy theorists. \ud83e\udd2e",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 103,
+            "friends_count": 562,
+            "listed_count": 1,
+            "created_at": "Tue Aug 17 13:03:31 +0000 2021",
+            "favourites_count": 2769,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3961,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1508032153283485698/8aVXwm5X_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1508032153283485698/8aVXwm5X_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427616994438705152/1629221612",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:08:50 +0000 2022",
+        "id": 1517339617305178112,
+        "id_str": "1517339617305178112",
+        "text": "@Kwakster_ZRX @SProjectMembers Ooh this is fantastic...check in later and tell us how it went! I love a good succes\u2026 https://t.co/3FnRJDjNjO",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Kwakster_ZRX",
+                    "name": "Kwakster",
+                    "id": 1501501008115290114,
+                    "id_str": "1501501008115290114",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "SProjectMembers",
+                    "name": "The Satisfaction Project - Members only",
+                    "id": 1467028561676566528,
+                    "id_str": "1467028561676566528",
+                    "indices": [
+                        14,
+                        30
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/3FnRJDjNjO",
+                    "expanded_url": "https://twitter.com/i/web/status/1517339617305178112",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1517089799626432512,
+        "in_reply_to_status_id_str": "1517089799626432512",
+        "in_reply_to_user_id": 1501501008115290114,
+        "in_reply_to_user_id_str": "1501501008115290114",
+        "in_reply_to_screen_name": "Kwakster_ZRX",
+        "user": {
+            "id": 553223952,
+            "id_str": "553223952",
+            "name": "Georgie Wolf \ud83d\udc3a",
+            "screen_name": "GeorgieWolf",
+            "location": "Melbourne, Australia",
+            "description": "Melbourne SW pro, writer, sex educator, advocate | https://t.co/7WlnieB0Q0 & https://t.co/1F9x0jpknw | Also: @artofthehookup and @SProjectPublic | 18+",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7WlnieB0Q0",
+                            "expanded_url": "http://satisfactionproject.com",
+                            "display_url": "satisfactionproject.com",
+                            "indices": [
+                                51,
+                                74
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/1F9x0jpknw",
+                            "expanded_url": "http://artofthehookup.com",
+                            "display_url": "artofthehookup.com",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 21500,
+            "friends_count": 3431,
+            "listed_count": 64,
+            "created_at": "Sat Apr 14 01:18:28 +0000 2012",
+            "favourites_count": 6735,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9050,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1182018367063900160/6Ebe7Tyz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182018367063900160/6Ebe7Tyz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/553223952/1548906774",
+            "profile_link_color": "E0C888",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:08:48 +0000 2022",
+        "id": 1517339611491553280,
+        "id_str": "1517339611491553280",
+        "text": "@blowingtom2 \u2018Close contact\u2019 is only after spending 4+ hrs in a household with someone. They\u2019d be \u2018social contacts\u2019\u2026 https://t.co/GOd1dKRsDH",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "blowingtom2",
+                    "name": "Tom the whistleblower MK2",
+                    "id": 1503982061459505153,
+                    "id_str": "1503982061459505153",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/GOd1dKRsDH",
+                    "expanded_url": "https://twitter.com/i/web/status/1517339611491553280",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1517065504317272064,
+        "in_reply_to_status_id_str": "1517065504317272064",
+        "in_reply_to_user_id": 1503982061459505153,
+        "in_reply_to_user_id_str": "1503982061459505153",
+        "in_reply_to_screen_name": "blowingtom2",
+        "user": {
+            "id": 2829146946,
+            "id_str": "2829146946",
+            "name": "kickarsemum \ud83d\udc89 \ud83d\udc89\ud83d\udc89",
+            "screen_name": "Mummycjmj",
+            "location": "Melbourne, Victoria",
+            "description": "single mum, more feminist & furious as I age, support climate change action, equality, human rights & science. Animal lover, Fvck the LNP & Murdoch",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 294,
+            "friends_count": 574,
+            "listed_count": 0,
+            "created_at": "Wed Sep 24 03:03:54 +0000 2014",
+            "favourites_count": 50906,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2483,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/515006541116604416/VA4p3SF4_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/515006541116604416/VA4p3SF4_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2829146946/1613644648",
+            "profile_link_color": "9266CC",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:07:19 +0000 2022",
+        "id": 1517339237296738304,
+        "id_str": "1517339237296738304",
+        "text": "@theage All restrictions will be gone. The virus is still around in very high numbers, two doses is not enough. We\u2026 https://t.co/GTBLIpYftH",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "theage",
+                    "name": "The Age",
+                    "id": 32201814,
+                    "id_str": "32201814",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/GTBLIpYftH",
+                    "expanded_url": "https://twitter.com/i/web/status/1517339237296738304",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1517284822074408960,
+        "in_reply_to_status_id_str": "1517284822074408960",
+        "in_reply_to_user_id": 32201814,
+        "in_reply_to_user_id_str": "32201814",
+        "in_reply_to_screen_name": "theage",
+        "user": {
+            "id": 3865582093,
+            "id_str": "3865582093",
+            "name": "Dean",
+            "screen_name": "deanfc72",
+            "location": "Melbourne, Victoria",
+            "description": "I am a lineman for the county\u2026",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 90,
+            "friends_count": 153,
+            "listed_count": 0,
+            "created_at": "Mon Oct 12 03:53:38 +0000 2015",
+            "favourites_count": 2847,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 13814,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1471761551883309059/3vy3iaCP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1471761551883309059/3vy3iaCP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3865582093/1639731509",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:05:00 +0000 2022",
+        "id": 1517338653093208064,
+        "id_str": "1517338653093208064",
+        "text": "West Australian Premier Mark McGowan has tested positive to COVID-19 after a family member contracted the virus.\u2026 https://t.co/lpYBuoXz54",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/lpYBuoXz54",
+                    "expanded_url": "https://twitter.com/i/web/status/1517338653093208064",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        114,
+                        137
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 183036128,
+            "id_str": "183036128",
+            "name": "9News Melbourne",
+            "screen_name": "9NewsMelb",
+            "location": "Melbourne, Australia",
+            "description": "@PHitchener9 and @alicialoxley present Melbourne\u2019s #9News on @Channel9 at 4.00pm/6.00pm. Simulcast on @899TheLight. Community Guidelines: https://t.co/h3hABkSNCP",
+            "url": "http://t.co/mTeTNcmhaU",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/mTeTNcmhaU",
+                            "expanded_url": "http://9News.com.au/Victoria",
+                            "display_url": "9News.com.au/Victoria",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/h3hABkSNCP",
+                            "expanded_url": "http://9jump.in/8oT7O4S",
+                            "display_url": "9jump.in/8oT7O4S",
+                            "indices": [
+                                138,
+                                161
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 214972,
+            "friends_count": 2280,
+            "listed_count": 1318,
+            "created_at": "Thu Aug 26 00:33:14 +0000 2010",
+            "favourites_count": 2341,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 280794,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1219129633230053377/M_twVrXj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219129633230053377/M_twVrXj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/183036128/1579498117",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:04:26 +0000 2022",
+        "id": 1517338511774388224,
+        "id_str": "1517338511774388224",
+        "text": "Even Covid is not so cruel as to discriminate between those vaccinated and those not.\n\nOr does it?\n\nSeems lately th\u2026 https://t.co/kd6YSkHfZL",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/kd6YSkHfZL",
+                    "expanded_url": "https://twitter.com/i/web/status/1517338511774388224",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1463728639007027200,
+            "id_str": "1463728639007027200",
+            "name": "Barrie Ayers",
+            "screen_name": "NotHappeningDan",
+            "location": "Melbourne, Vic",
+            "description": "Former boy scout. Good at watching. Making a list and checking it twice.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 138,
+            "friends_count": 135,
+            "listed_count": 0,
+            "created_at": "Thu Nov 25 04:38:19 +0000 2021",
+            "favourites_count": 16194,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 616,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1463728733190197255/XJPLueIc_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1463728733190197255/XJPLueIc_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:04:23 +0000 2022",
+        "id": 1517338500487852032,
+        "id_str": "1517338500487852032",
+        "text": "Know this is bullshit because everyone in my family is unvac and none of us had long Covid! Ducking liar https://t.co/w3TD5pIAbI",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/w3TD5pIAbI",
+                    "expanded_url": "https://twitter.com/drericding/status/1517314318748078081",
+                    "display_url": "twitter.com/drericding/sta\u2026",
+                    "indices": [
+                        105,
+                        128
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1479807388060246016,
+            "id_str": "1479807388060246016",
+            "name": "Xinfinity",
+            "screen_name": "xinfinity22",
+            "location": "Melbourne, Victoria",
+            "description": "Second class citizen. 30s Melbourne Australia. #controlgroup",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 274,
+            "friends_count": 961,
+            "listed_count": 3,
+            "created_at": "Sat Jan 08 13:29:16 +0000 2022",
+            "favourites_count": 14347,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6265,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1516682576081338373/NY2PNACK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516682576081338373/NY2PNACK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479807388060246016/1641900324",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1517314318748078081,
+        "quoted_status_id_str": "1517314318748078081",
+        "quoted_status": {
+            "created_at": "Fri Apr 22 01:28:18 +0000 2022",
+            "id": 1517314318748078081,
+            "id_str": "1517314318748078081",
+            "text": "Mass infection delusion. \n\nDon\u2019t risk it. 20-30% of unvaccinated infected get #longCOVID, and up to 10% of vaccinat\u2026 https://t.co/o8SPDIe5Tj",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "longCOVID",
+                        "indices": [
+                            78,
+                            88
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/o8SPDIe5Tj",
+                        "expanded_url": "https://twitter.com/i/web/status/1517314318748078081",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 18831926,
+                "id_str": "18831926",
+                "name": "Eric Feigl-Ding",
+                "screen_name": "DrEricDing",
+                "location": "Washington DC & Virginia",
+                "description": "Epidemiologist & health economist. Global health security. Co-founder @TheWHN. COVID updates since Jan \u201820 https://t.co/eNp7gjyhC0",
+                "url": "https://t.co/RCgkorULxy",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/RCgkorULxy",
+                                "expanded_url": "http://scholar.harvard.edu/ericfeiglding",
+                                "display_url": "scholar.harvard.edu/ericfeiglding",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/eNp7gjyhC0",
+                                "expanded_url": "http://nym.ag/3olszuo",
+                                "display_url": "nym.ag/3olszuo",
+                                "indices": [
+                                    107,
+                                    130
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 723140,
+                "friends_count": 10749,
+                "listed_count": 8423,
+                "created_at": "Sat Jan 10 11:01:33 +0000 2009",
+                "favourites_count": 250107,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 63581,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "3B94D9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1516900105613422592/VflZHQ1Y_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516900105613422592/VflZHQ1Y_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18831926/1634610256",
+                "profile_link_color": "9266CC",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F6FFD1",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 565,
+            "favorite_count": 1785,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+,
+    {
+        "created_at": "Fri Apr 22 03:03:08 +0000 2022",
+        "id": 1517338183352000514,
+        "id_str": "1517338183352000514",
+        "text": "@alexmeshkin Yes. In my case they picked up I had Covid too late",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "alexmeshkin",
+                    "name": "Alex Meshkin, GED",
+                    "id": 17250666,
+                    "id_str": "17250666",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1517130583603761153,
+        "in_reply_to_status_id_str": "1517130583603761153",
+        "in_reply_to_user_id": 17250666,
+        "in_reply_to_user_id_str": "17250666",
+        "in_reply_to_screen_name": "alexmeshkin",
+        "user": {
+            "id": 1172831678814797824,
+            "id_str": "1172831678814797824",
+            "name": "Mousey",
+            "screen_name": "Mousey11662824",
+            "location": "Melbourne ",
+            "description": "Haver of my family's way\nOpinions are my own \n\ud83d\udc89\ud83d\udc89\ud83d\udc89\nShe/her",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 19,
+            "friends_count": 122,
+            "listed_count": 0,
+            "created_at": "Sat Sep 14 11:17:27 +0000 2019",
+            "favourites_count": 1758,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 718,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1486337707857313796/B5htcp-7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486337707857313796/B5htcp-7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1172831678814797824/1632557708",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 03:01:54 +0000 2022",
+        "id": 1517337874060161025,
+        "id_str": "1517337874060161025",
+        "text": "@YouAreLobbyLud @dj1au It feels like they can\u2019t believe how little scrutiny there is and so are running with the ba\u2026 https://t.co/O8iiwu0std",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "YouAreLobbyLud",
+                    "name": "Dr David Berger, aBsuRdiSTe cROnickLeR",
+                    "id": 1238949674989416449,
+                    "id_str": "1238949674989416449",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "dj1au",
+                    "name": "Dan Jago",
+                    "id": 196060643,
+                    "id_str": "196060643",
+                    "indices": [
+                        16,
+                        22
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/O8iiwu0std",
+                    "expanded_url": "https://twitter.com/i/web/status/1517337874060161025",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1517333849218650112,
+        "in_reply_to_status_id_str": "1517333849218650112",
+        "in_reply_to_user_id": 1238949674989416449,
+        "in_reply_to_user_id_str": "1238949674989416449",
+        "in_reply_to_screen_name": "YouAreLobbyLud",
+        "user": {
+            "id": 1449541053703356416,
+            "id_str": "1449541053703356416",
+            "name": "Covid is Airborne in schools",
+            "screen_name": "AugersMonster",
+            "location": "Melbourne, Victoria",
+            "description": "New to twitter driven by a desperate need to understand why we\u2019ve given up on protecting our kids in Victoria",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1586,
+            "friends_count": 577,
+            "listed_count": 11,
+            "created_at": "Sun Oct 17 01:02:03 +0000 2021",
+            "favourites_count": 41008,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5401,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1517345627273052162/MpXuNWY6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1517345627273052162/MpXuNWY6_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 02:59:50 +0000 2022",
+        "id": 1517337355442540544,
+        "id_str": "1517337355442540544",
+        "text": "@cooroyqueen @nickpmclaren covid is a cold it is a coronavirus which covers the family of common colds &amp; flus",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "cooroyqueen",
+                    "name": "Laurel \u2733\ufe0f\u2733\ufe0f\u2733\ufe0f",
+                    "id": 1214854653336145920,
+                    "id_str": "1214854653336145920",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "nickpmclaren",
+                    "name": "Nick McLaren",
+                    "id": 87884725,
+                    "id_str": "87884725",
+                    "indices": [
+                        13,
+                        26
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1517291909131096064,
+        "in_reply_to_status_id_str": "1517291909131096064",
+        "in_reply_to_user_id": 1214854653336145920,
+        "in_reply_to_user_id_str": "1214854653336145920",
+        "in_reply_to_screen_name": "cooroyqueen",
+        "user": {
+            "id": 1258567082,
+            "id_str": "1258567082",
+            "name": "mareefeb",
+            "screen_name": "mareefeb",
+            "location": "melbourne",
+            "description": "I want freedom from the tyranny of those who justify their actions hiding behind the words ..doing it for the greater good \nI also barrack for Essendon.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1047,
+            "friends_count": 882,
+            "listed_count": 11,
+            "created_at": "Mon Mar 11 04:15:28 +0000 2013",
+            "favourites_count": 186687,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 53431,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "8333C4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1180225674704867328/S4A8JsCR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180225674704867328/S4A8JsCR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1258567082/1570222807",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 02:58:24 +0000 2022",
+        "id": 1517336993327611904,
+        "id_str": "1517336993327611904",
+        "text": "@GideonCRozner Are you sure that he's really got COVID. They needed to hide him somehow.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "GideonCRozner",
+                    "name": "Gideon Rozner \ud83c\udf38",
+                    "id": 147484071,
+                    "id_str": "147484071",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+        "in_reply_to_status_id": 1517314977807630336,
+        "in_reply_to_status_id_str": "1517314977807630336",
+        "in_reply_to_user_id": 147484071,
+        "in_reply_to_user_id_str": "147484071",
+        "in_reply_to_screen_name": "GideonCRozner",
+        "user": {
+            "id": 193894110,
+            "id_str": "193894110",
+            "name": "Colin Ferris",
+            "screen_name": "FerrisColin",
+            "location": "Melbourne ",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29,
+            "friends_count": 150,
+            "listed_count": 0,
+            "created_at": "Wed Sep 22 22:38:38 +0000 2010",
+            "favourites_count": 275,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 886,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000450525566/c81e2b988a15d0e927dd98f91945d543_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000450525566/c81e2b988a15d0e927dd98f91945d543_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 02:58:20 +0000 2022",
+        "id": 1517336976911122433,
+        "id_str": "1517336976911122433",
+        "text": "@nickpmclaren Which variation? In 2019, well before Covid-*, the predicted deaths in Australia from complications d\u2026 https://t.co/9yBrnNYnt9",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "nickpmclaren",
+                    "name": "Nick McLaren",
+                    "id": 87884725,
+                    "id_str": "87884725",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/9yBrnNYnt9",
+                    "expanded_url": "https://twitter.com/i/web/status/1517336976911122433",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1517258462815985665,
+        "in_reply_to_status_id_str": "1517258462815985665",
+        "in_reply_to_user_id": 87884725,
+        "in_reply_to_user_id_str": "87884725",
+        "in_reply_to_screen_name": "nickpmclaren",
+        "user": {
+            "id": 3154068205,
+            "id_str": "3154068205",
+            "name": "Earth Five",
+            "screen_name": "EarthFive",
+            "location": "Melbourne, Victoria, Australia",
+            "description": "Handmade Leather Goods",
+            "url": "http://t.co/Y8D74YKRVJ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/Y8D74YKRVJ",
+                            "expanded_url": "http://www.earthfive.com.au/",
+                            "display_url": "earthfive.com.au",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 41,
+            "friends_count": 200,
+            "listed_count": 0,
+            "created_at": "Tue Apr 14 00:04:49 +0000 2015",
+            "favourites_count": 22,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 708,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/590309741668143104/z3kP8TQ8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/590309741668143104/z3kP8TQ8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3154068205/1493355125",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 02:58:14 +0000 2022",
+        "id": 1517336950147252224,
+        "id_str": "1517336950147252224",
+        "text": "@JonDaley7 It says Vaccine is useless as how could Fully Vaccinated people still catch, transmit Covid and even die. Why vaccinate?",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JonDaley7",
+                    "name": "Jon Daley",
+                    "id": 787422491815792640,
+                    "id_str": "787422491815792640",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1517099120758259712,
+        "in_reply_to_status_id_str": "1517099120758259712",
+        "in_reply_to_user_id": 787422491815792640,
+        "in_reply_to_user_id_str": "787422491815792640",
+        "in_reply_to_screen_name": "JonDaley7",
+        "user": {
+            "id": 1175210129978904577,
+            "id_str": "1175210129978904577",
+            "name": "Hoa Nguyen",
+            "screen_name": "HoaNguy01811981",
+            "location": "Melbourne, Victoria",
+            "description": "I love simple fashion styles. I don\u2019t like to put makeup on. I love everything in nature and reality. Human would never be happy without Democracy and Freedom",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1694,
+            "friends_count": 4976,
+            "listed_count": 6,
+            "created_at": "Sat Sep 21 00:49:38 +0000 2019",
+            "favourites_count": 16062,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7421,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1175211363699814400/aWGfJkSU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175211363699814400/aWGfJkSU_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 02:57:10 +0000 2022",
+        "id": 1517336683078848512,
+        "id_str": "1517336683078848512",
+        "text": "@CttlD @JoanBloggs @nickpmclaren excuse me nothing about the covid strategy had anything to do with sensible diseas\u2026 https://t.co/2B4HQErnKa",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CttlD",
+                    "name": "Cattle Dog",
+                    "id": 579817484,
+                    "id_str": "579817484",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                },
+                {
+                    "screen_name": "JoanBloggs",
+                    "name": "Joan",
+                    "id": 42856767,
+                    "id_str": "42856767",
+                    "indices": [
+                        7,
+                        18
+                    ]
+                },
+                {
+                    "screen_name": "nickpmclaren",
+                    "name": "Nick McLaren",
+                    "id": 87884725,
+                    "id_str": "87884725",
+                    "indices": [
+                        19,
+                        32
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/2B4HQErnKa",
+                    "expanded_url": "https://twitter.com/i/web/status/1517336683078848512",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1517333389191245824,
+        "in_reply_to_status_id_str": "1517333389191245824",
+        "in_reply_to_user_id": 579817484,
+        "in_reply_to_user_id_str": "579817484",
+        "in_reply_to_screen_name": "CttlD",
+        "user": {
+            "id": 1258567082,
+            "id_str": "1258567082",
+            "name": "mareefeb",
+            "screen_name": "mareefeb",
+            "location": "melbourne",
+            "description": "I want freedom from the tyranny of those who justify their actions hiding behind the words ..doing it for the greater good \nI also barrack for Essendon.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1047,
+            "friends_count": 882,
+            "listed_count": 11,
+            "created_at": "Mon Mar 11 04:15:28 +0000 2013",
+            "favourites_count": 186687,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 53431,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "8333C4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1180225674704867328/S4A8JsCR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180225674704867328/S4A8JsCR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1258567082/1570222807",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 02:53:38 +0000 2022",
+        "id": 1517335792720687104,
+        "id_str": "1517335792720687104",
+        "text": "@RobAussie1 Hmmm - so basically he is so shit that his party cannot stand to see him make a dick of himself (and th\u2026 https://t.co/UPf5OxwHLT",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RobAussie1",
+                    "name": "RobAussie",
+                    "id": 1511542100428746753,
+                    "id_str": "1511542100428746753",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/UPf5OxwHLT",
+                    "expanded_url": "https://twitter.com/i/web/status/1517335792720687104",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1517335460502454272,
+        "in_reply_to_status_id_str": "1517335460502454272",
+        "in_reply_to_user_id": 1511542100428746753,
+        "in_reply_to_user_id_str": "1511542100428746753",
+        "in_reply_to_screen_name": "RobAussie1",
+        "user": {
+            "id": 1452579937827770370,
+            "id_str": "1452579937827770370",
+            "name": "Blow it out your arse",
+            "screen_name": "Dirtbox5",
+            "location": "Melbourne ",
+            "description": "I live on Australian soil which is where I was born. I celebrate Aus Day on 26 Jan! \nPronoun - BLOW ME and get over yourself! GO BAGGERS!!!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 895,
+            "friends_count": 1512,
+            "listed_count": 1,
+            "created_at": "Mon Oct 25 10:17:06 +0000 2021",
+            "favourites_count": 9662,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8627,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1515266709426679808/IUVCZD0A_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1515266709426679808/IUVCZD0A_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1452579937827770370/1649247912",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 02:51:45 +0000 2022",
+        "id": 1517335317283414016,
+        "id_str": "1517335317283414016",
+        "text": "Does anyone know any more about this? Pretty scary stuff!\nChina creating new Covid strains that could kill billions\u2026 https://t.co/Yz9MpfqISl",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Yz9MpfqISl",
+                    "expanded_url": "https://twitter.com/i/web/status/1517335317283414016",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1366641335952834563,
+            "id_str": "1366641335952834563",
+            "name": "Merri",
+            "screen_name": "Merriwin9",
+            "location": "Melbourne, Victoria",
+            "description": "Climate science matters, can't stand the corruption in the LNP - lets vote them out!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 549,
+            "friends_count": 1140,
+            "listed_count": 1,
+            "created_at": "Tue Mar 02 06:48:14 +0000 2021",
+            "favourites_count": 53728,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9988,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1426710655424286722/vsTFKrPd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426710655424286722/vsTFKrPd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1366641335952834563/1636768034",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 22 02:51:18 +0000 2022",
+        "id": 1517335206876745728,
+        "id_str": "1517335206876745728",
+        "text": "@JasonClareMP \nHas Morrison been tested for Covid? Who is to say that he doesn't have it. Put the question out ther\u2026 https://t.co/nxPCuaK79J",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JasonClareMP",
+                    "name": "Jason Clare MP",
+                    "id": 88859872,
+                    "id_str": "88859872",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/nxPCuaK79J",
+                    "expanded_url": "https://twitter.com/i/web/status/1517335206876745728",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 88859872,
+        "in_reply_to_user_id_str": "88859872",
+        "in_reply_to_screen_name": "JasonClareMP",
+        "user": {
+            "id": 1212095539572985856,
+            "id_str": "1212095539572985856",
+            "name": "Leela st albon",
+            "screen_name": "albon_st",
+            "location": "Melbourne, Victoria",
+            "description": "Thinker",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 742,
+            "friends_count": 1159,
+            "listed_count": 2,
+            "created_at": "Tue Dec 31 19:38:27 +0000 2019",
+            "favourites_count": 99483,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 93415,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1444592857940041730/Ehaph-ia_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1444592857940041730/Ehaph-ia_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+]

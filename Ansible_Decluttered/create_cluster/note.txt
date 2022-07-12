@@ -1,0 +1,6 @@
+if the control node already has a cluster, this script will fail
+to create another cluster, ssh onto the control node and run 'kubeadm reset'
+without the quotes
+and follow the instructions as indicated
+
+This setup uses Flannel as a container network interface

@@ -1,0 +1,6 @@
+---
+
+- name: Test docker installation
+  become: yes
+  ansible.builtin.command:
+          cmd: 'docker run hello-world'

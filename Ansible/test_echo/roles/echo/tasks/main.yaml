@@ -1,0 +1,5 @@
+---
+# test the ansible.builtin.command module
+- name: echo
+  ansible.builtin.command:
+          cmd: echo Hello > hello.txt

@@ -1,0 +1,7 @@
+---
+# test the ansible.builtin.command module
+
+- name: echo twice
+  ansible.builtin.command:
+          chdir: ~/home/ubuntu
+          cmd: echo Hello > hello.txt
