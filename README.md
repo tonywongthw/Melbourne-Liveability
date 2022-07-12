@@ -3,20 +3,21 @@
 
 # Demo
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/06PgcuYHC_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Features
 
 1. Visualising data such as weekly mortgage on heat map
 
-![alt text](https://github.com/tonywongthw/Melbourne-Liveability/blob/main/Screenshots/Feature%202.jpg)
+![alt text](https://github.com/tonywongthw/Melbourne-Liveability/blob/main/Screenshots/Overview.jpg)
 
 2. Showing the name of suburb when hovering mouse over a specific region, such as Brighton
 
+![alt text](https://github.com/tonywongthw/Melbourne-Liveability/blob/main/Screenshots/Feature%202.jpg)
 
 3. Comparing data in bar chart, such as weekly rent vs weekly mortgage
 
-
+![alt text](https://github.com/tonywongthw/Melbourne-Liveability/blob/main/Screenshots/Feature%203.jpg)
 
 # Design Overview
 
