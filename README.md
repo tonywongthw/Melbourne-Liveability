@@ -9,7 +9,7 @@
 
 1. Visualising data such as weekly mortgage on heat map
 
-
+![alt text](https://github.com/tonywongthw/Melbourne-Liveability/blob/main/Screenshots/Feature%202.jpg)
 
 2. Showing the name of suburb when hovering mouse over a specific region, such as Brighton
 
@@ -40,7 +40,7 @@ Set Up Front End under node environment:
 3. run "npm start", then a web page will pop out.
 
 # Remarks
-This repository also contains the following additional folders for exploration
+This repository also contains the original DB after harvesting tweets. The following additional folders are also available for exploration
 
 - Ansible : Scripts to set up kubernets and deploy the web application on cloud
 - Twitter-harvester : Scripts to harvets tweets using Twitter API
