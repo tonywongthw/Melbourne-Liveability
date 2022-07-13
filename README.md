@@ -1,5 +1,5 @@
 # Melbourne Liveability
- A web application visualising statistical data on an interactive map.
+ :world_map: A web application visualising statistical data on an interactive map.
 
 # Features
 
