@@ -17,7 +17,8 @@
 
 # Demo
 
-Full Demonstration is available in the following YouTube video link
+Full Demonstration is available in the following YouTube video link:
+
 https://www.youtube.com/watch?v=06PgcuYHC_k
 
 # Tech Stacks
