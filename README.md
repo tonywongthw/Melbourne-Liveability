@@ -1,5 +1,5 @@
 # Melbourne Liveability
- A two tier web application for visualising statistical data on map.
+ A web application visualising statistical data on an interactive map.
 
 # Features
 
@@ -17,7 +17,7 @@
 
 # Demo
 
-Full Demonstration is available in the following Youtube Video Link
+Full Demonstration is available in the following YouTube video link
 https://www.youtube.com/watch?v=06PgcuYHC_k
 
 # Tech Stacks
@@ -44,6 +44,8 @@ Deployment : Ansible
 
 # Cloning for testing front-end and backend
 
+The following steps will run the web applicatio on local host using cached data, without the need to deploy the application to cloud, running CouchDB or Twitter harvester.
+
 Clone the Repository
 
 Set Up Backend Flask Server
@@ -53,10 +55,10 @@ Set Up Backend Flask Server
 Set Up Front End under node environment:
 1. cd to "frontend" folder
 2. run "npm install"
-3. run "npm start", then a web page will pop out.
+3. run "npm start", then a web page will pop out
 
 # Remarks
-This repository also contains the original DB after harvesting tweets. The following additional folders are also available for exploration
+The following additional folders are also available for exploration
 
 - Ansible : Scripts to set up kubernets and deploy the web application on cloud
 - Twitter-harvester : Scripts to harvets tweets using Twitter API
